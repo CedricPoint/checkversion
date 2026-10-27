@@ -1,4 +1,4 @@
 {
-  "version": "1.4.0",
-  "notes": "Cinq modèles de radar au choix (Config.Radars.modeles). Les radars se posent et se gèrent dans la tablette : liste avec panneau de vitesse, GPS, modifier (nom, vitesse, modèle), retirer. /radars ouvre cet onglet."
+  "version": "1.6.0",
+  "notes": "Journaux Discord complets : 8 salons réservés au staff (service, procédures, interpellations, armurerie, dispatch, radars-caméras, commandement, admin), créés automatiquement par le bot VESPER ou par webhooks (Config.Journaux). Amendes impayées reliées à vesper-billing (facultatif). Après un paiement partiel, seul le reste dû est inscrit."
 }
