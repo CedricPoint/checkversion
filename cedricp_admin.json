@@ -1,4 +1,4 @@
 {
-  "version": "2.1.0",
-  "notes": "CP Admin 2.1.0 : ID des joueurs au-dessus des têtes avec portée réglable, noclip avec bandeau et mode curseur (désigner un joueur, un véhicule ou un objet), raccourcis clavier réglables par admin, connexion mémorisée, densité du monde appliquée malgré ESX, annonce des mises à jour."
+  "version": "2.1.1",
+  "notes": "Correctif densité du monde : un réglage réduit faisait supprimer par le jeu les voitures et PNJ autour des joueurs ; seules les nouvelles apparitions sont désormais réduites. Avertissement dans le Centre de contrôle quand une densité réduite est active."
 }
