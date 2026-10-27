@@ -1,4 +1,4 @@
 {
-  "version": "1.6.1",
-  "notes": "Appels automatiques à un endroit précis : nouvel export serveur signalerEn(genre, coords, détails), qui ouvre un appel anonyme au lieu de la scène (et non sur un joueur). Deux nouveaux types d'appel : vente de stupéfiants et livraison suspecte (utilisés par vesper-gangs). Un seul appel par type à moins de 60 m pendant le délai du type."
+  "version": "1.6.2",
+  "notes": "Sortie des cellules propre à chaque poste (/lspdadmin, onglet Cellules) : une garde à vue terminée relâche à cette sortie, jamais à celle de la prison. Correctif : la sortie de cellule n'était pas envoyée aux joueurs. Une peine finie hors ligne relâche au bon point à la reconnexion. Journaux admin détaillés (positions avant / après) et sortie anormale de cellule signalée."
 }
