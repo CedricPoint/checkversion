@@ -1,4 +1,4 @@
 {
-  "version": "2.3.0",
-  "notes": "Vérification des mises à jour, raccourcis sans touche fausse, recherche classée par pertinence, prêt pour l'Asset Escrow."
+  "version": "2.3.1",
+  "notes": "Plus de gel à la première ouverture du menu (métier lu une fois, catalogue préparé en arrière-plan), recherche plus rapide."
 }
