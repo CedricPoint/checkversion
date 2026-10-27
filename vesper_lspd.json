@@ -1,4 +1,4 @@
 {
-  "version": "1.6.0",
-  "notes": "Journaux Discord complets : 8 salons réservés au staff (service, procédures, interpellations, armurerie, dispatch, radars-caméras, commandement, admin), créés automatiquement par le bot VESPER ou par webhooks (Config.Journaux). Amendes impayées reliées à vesper-billing (facultatif). Après un paiement partiel, seul le reste dû est inscrit."
+  "version": "1.6.1",
+  "notes": "Appels automatiques à un endroit précis : nouvel export serveur signalerEn(genre, coords, détails), qui ouvre un appel anonyme au lieu de la scène (et non sur un joueur). Deux nouveaux types d'appel : vente de stupéfiants et livraison suspecte (utilisés par vesper-gangs). Un seul appel par type à moins de 60 m pendant le délai du type."
 }
