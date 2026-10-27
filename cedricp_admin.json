@@ -1,1 +1,4 @@
-1.2.1
+{
+  "version": "2.1.0",
+  "notes": "CP Admin 2.1.0 : ID des joueurs au-dessus des têtes avec portée réglable, noclip avec bandeau et mode curseur (désigner un joueur, un véhicule ou un objet), raccourcis clavier réglables par admin, connexion mémorisée, densité du monde appliquée malgré ESX, annonce des mises à jour."
+}
