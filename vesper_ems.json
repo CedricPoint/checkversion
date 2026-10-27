@@ -1,4 +1,4 @@
 {
-  "version": "1.2.0",
-  "notes": "Journaux Discord complets : dix salons réservés au staff (service, patients, soins, transport, dispatch, radio, finances, logistique, direction, administration) avec soignant et patient identifiés. Installation automatique avec le bot VESPER, ou un webhook par sujet. Commande console emsjournaux pour tester."
+  "version": "1.3.0",
+  "notes": "Vraie civière sortie de l'ambulance (posée, patient installé, rechargée), patients allongés dans les lits en attente de soins, sac de secours utilisable sur place et visible de tous, notifications RP des blessures, statut des factures sur la tablette, animations de réanimation et de soin refaites."
 }
