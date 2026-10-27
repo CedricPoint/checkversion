@@ -1,4 +1,4 @@
 {
-  "version": "1.1.0",
-  "notes": "Première version publique : agonie puis coma, blessures par membre, réanimation, transport du blessé (épaule, civière, véhicule), tablette (dispatch, unités, carte, radio, gestion, personnel), hôpitaux édités en jeu, assurance, compatibilité esx_ambulancejob et txAdmin."
+  "version": "1.2.0",
+  "notes": "Journaux Discord complets : dix salons réservés au staff (service, patients, soins, transport, dispatch, radio, finances, logistique, direction, administration) avec soignant et patient identifiés. Installation automatique avec le bot VESPER, ou un webhook par sujet. Commande console emsjournaux pour tester."
 }
