@@ -1,4 +1,4 @@
 {
-  "version": "1.1.1",
-  "notes": "Le staff ne se troll plus entre lui, dans les deux sens : aucun membre du staff ne peut viser un autre membre, supérieur comme subordonné."
+  "version": "1.2.0",
+  "notes": "Nouvelle interface style bande dessinée : une couleur par rubrique, panneau d'envoi repensé (nombre en pictogrammes, armes en un clic, pour de vrai ou pour rire)."
 }
