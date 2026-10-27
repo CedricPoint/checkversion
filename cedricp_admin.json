@@ -1,4 +1,4 @@
 {
-  "version": "2.1.1",
-  "notes": "Correctif densité du monde : un réglage réduit faisait supprimer par le jeu les voitures et PNJ autour des joueurs ; seules les nouvelles apparitions sont désormais réduites. Avertissement dans le Centre de contrôle quand une densité réduite est active."
+  "version": "2.2.0",
+  "notes": "Mode streamer : plus aucun nom de joueur ni identifiant à l'écran, seulement l'ID, dans tout le panneau et au-dessus des têtes. Gang / organisation visible dans la liste et la fiche des joueurs (QBCore/Qbox, vesper-gangs, rcore_gangs, job2 ESX)."
 }
