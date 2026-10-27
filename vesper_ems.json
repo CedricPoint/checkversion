@@ -1,4 +1,4 @@
 {
-  "version": "1.4.0",
-  "notes": "Civière pour un joueur conscient (seul ou avec son accord), coma toujours tenu au sol, clés données à la sortie du garage, assurance en plusieurs formules vendue au guichet ou par un soignant, matériel de soin simplifié et noms des objets en français."
+  "version": "1.4.1",
+  "notes": "Le patient porté (ou sur la civière) s'allonge dans n'importe quel lit de la carte, et la civière poussée ne cogne plus les portes ni les murs."
 }
