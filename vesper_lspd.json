@@ -1,4 +1,4 @@
 {
-  "version": "1.3.2",
-  "notes": "Nouvel onglet Radars dans la tablette : mode d'emploi pas à pas, boutons « Poser un radar » et « Gérer les radars ». Écran Équipe : le grade sous le nom d'un agent n'est plus encadré."
+  "version": "1.4.0",
+  "notes": "Cinq modèles de radar au choix (Config.Radars.modeles). Les radars se posent et se gèrent dans la tablette : liste avec panneau de vitesse, GPS, modifier (nom, vitesse, modèle), retirer. /radars ouvre cet onglet."
 }
