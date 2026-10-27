@@ -1,4 +1,4 @@
 {
-  "version": "1.3.0",
-  "notes": "Vraie civière sortie de l'ambulance (posée, patient installé, rechargée), patients allongés dans les lits en attente de soins, sac de secours utilisable sur place et visible de tous, notifications RP des blessures, statut des factures sur la tablette, animations de réanimation et de soin refaites."
+  "version": "1.4.0",
+  "notes": "Civière pour un joueur conscient (seul ou avec son accord), coma toujours tenu au sol, clés données à la sortie du garage, assurance en plusieurs formules vendue au guichet ou par un soignant, matériel de soin simplifié et noms des objets en français."
 }
