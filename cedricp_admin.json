@@ -1,4 +1,4 @@
 {
-  "version": "2.4.0",
-  "notes": "Groupes ESX synchronisés avec les rôles du panneau : le staff reçoit son groupe tout seul (retiré à la révocation), et les droits ESX de chaque groupe (commandes, héritage, ACE) se règlent dans Rôles et comptes › Groupes ESX."
+  "version": "2.5.0",
+  "notes": "Causes de la mort au-dessus du corps (arme, tueur avec son ID) pour le staff en service. Correctif : un véhicule sorti depuis le garage d'un joueur apparaît sous le joueur, et non plus sous l'admin."
 }
