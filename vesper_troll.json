@@ -1,4 +1,4 @@
 {
-  "version": "1.2.0",
-  "notes": "Nouvelle interface style bande dessinée : une couleur par rubrique, panneau d'envoi repensé (nombre en pictogrammes, armes en un clic, pour de vrai ou pour rire)."
+  "version": "1.3.0",
+  "notes": "Traductions français / anglais, grade du staff détecté (cedricp-admin, ESX, ACE) et journaux Discord automatiques avec le bot VESPER."
 }
