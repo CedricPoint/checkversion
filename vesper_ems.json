@@ -1,4 +1,4 @@
 {
-  "version": "1.4.3",
-  "notes": "Un joueur à terre peut toujours être frappé mais reste au sol : plus de ragdoll tant qu'il est à terre, posture remise aussitôt après chaque coup."
+  "version": "1.4.4",
+  "notes": "Les coups ne coupent plus la posture de coma : un joueur à terre ne réagit plus aux coups, et sa posture revient instantanément si quelque chose l'interrompt."
 }
