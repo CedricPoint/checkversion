@@ -1,4 +1,4 @@
 {
-  "version": "2.6.0",
-  "notes": "Inventaire d'un joueur directement dans le panneau, avec tous les inventaires (voir, retirer, donner). Hiérarchie stricte : aucune action possible sur un membre du staff de rang égal ou supérieur."
+  "version": "2.6.1",
+  "notes": "Groupes ESX : deux rôles ne sont plus reliés au même groupe au premier démarrage (un ESX qui traitait superadmin comme fondateur donnait au Super admin les droits du Fondateur)."
 }
