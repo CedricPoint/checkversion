@@ -1,4 +1,4 @@
 {
-  "version": "2.7.0",
-  "notes": "Nouveaux tags admin au-dessus de la tête : pastille en dégradé avec reflet, halo et icône, pseudo en capsule, animations fluides. Choix de l'icône dans Paramètres › Tags admin."
+  "version": "2.8.0",
+  "notes": "Traduction anglaise complète (panneau, messages en jeu, journaux, Discord, console) : Config.Locale = 'en'. Chaque admin peut aussi choisir la langue de son panneau (Paramètres › Affichage). / Full English translation: set Config.Locale = 'en'."
 }
