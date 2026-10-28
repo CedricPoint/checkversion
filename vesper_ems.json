@@ -1,4 +1,4 @@
 {
-  "version": "1.4.4",
-  "notes": "Les coups ne coupent plus la posture de coma : un joueur à terre ne réagit plus aux coups, et sa posture revient instantanément si quelque chose l'interrompt."
+  "version": "1.4.5",
+  "notes": "Un relevé par le staff efface aussi les blessures : /revive d'un administrateur, console du serveur et menus d'administration (esx_ambulancejob:revive / :heal). Le soignant relève toujours sans soigner."
 }
