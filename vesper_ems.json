@@ -1,4 +1,4 @@
 {
-  "version": "1.4.2",
-  "notes": "Anti-spam de l'écran de mort : un appui par seconde, un seul « Patientez » avec le temps restant, et des délais côté serveur sur les descriptions, messages de suivi et demandes de réveil (Config.AntiSpam)."
+  "version": "1.4.3",
+  "notes": "Un joueur à terre peut toujours être frappé mais reste au sol : plus de ragdoll tant qu'il est à terre, posture remise aussitôt après chaque coup."
 }
