@@ -1,4 +1,4 @@
 {
-  "version": "2.9.0",
-  "notes": "Sanctions : types et durées prévues (réservables par rôle), historique complet de chaque joueur, jail hors RP dans une instance à part (cellules, sortie, temps restant, reprise à la reconnexion). Réglez les cellules dans Sanctions › Cellules et donnez les droits sanctions.* à vos rôles. / Sanctions, full history and out-of-character jail in a separate instance."
+  "version": "2.9.1",
+  "notes": "Jail sans évasion possible : le serveur surveille la zone et l'instance (même avec un jeu modifié), un staff en jail perd ses pouvoirs. Correctif important : les journaux ne s'enregistraient pas tous (lot refusé par la base), ils s'enregistrent de nouveau. / Escape-proof jail and a log writing fix."
 }
