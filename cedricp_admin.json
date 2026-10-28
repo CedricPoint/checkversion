@@ -1,4 +1,4 @@
 {
-  "version": "2.10.0",
-  "notes": "Cellules du jail posées en marchant (E poser, X retirer, Entrée enregistrer). Instance normale et instance du jail séparées : le staff peut entrer dans celle du jail pour voir les détenus et revenir (/jailvisit). / Place jail cells while walking; staff can enter and leave the jail instance."
+  "version": "2.11.1",
+  "notes": "Zone du jail dessinée en jeu en caméra libre (coins, hauteur). Notifications en jeu par l'interface de votre serveur : vesper-interface, ox_lib, ESX ou QBCore (Config.Notify.provider). / Jail area drawn in game with a free camera; in-game notifications through your server UI (Config.Notify.provider)."
 }
