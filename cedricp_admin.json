@@ -1,4 +1,4 @@
 {
-  "version": "2.9.1",
-  "notes": "Jail sans évasion possible : le serveur surveille la zone et l'instance (même avec un jeu modifié), un staff en jail perd ses pouvoirs. Correctif important : les journaux ne s'enregistraient pas tous (lot refusé par la base), ils s'enregistrent de nouveau. / Escape-proof jail and a log writing fix."
+  "version": "2.10.0",
+  "notes": "Cellules du jail posées en marchant (E poser, X retirer, Entrée enregistrer). Instance normale et instance du jail séparées : le staff peut entrer dans celle du jail pour voir les détenus et revenir (/jailvisit). / Place jail cells while walking; staff can enter and leave the jail instance."
 }
