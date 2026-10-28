@@ -1,4 +1,4 @@
 {
-  "version": "2.2.0",
-  "notes": "Mode streamer : plus aucun nom de joueur ni identifiant à l'écran, seulement l'ID, dans tout le panneau et au-dessus des têtes. Gang / organisation visible dans la liste et la fiche des joueurs (QBCore/Qbox, vesper-gangs, rcore_gangs, job2 ESX)."
+  "version": "2.3.0",
+  "notes": "/screenlive : jusqu'à 4 écrans de joueurs incrustés pendant qu'on joue (en haut à gauche, image réelle du jeu), déplaçables et redimensionnables (/screenlive sans argument ou /screenlivemanage). Les flux incrustés ne sont plus coupés en quittant la Vue en direct."
 }
