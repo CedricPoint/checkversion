@@ -1,4 +1,4 @@
 {
-  "version": "1.4.1",
-  "notes": "Le patient porté (ou sur la civière) s'allonge dans n'importe quel lit de la carte, et la civière poussée ne cogne plus les portes ni les murs."
+  "version": "1.4.2",
+  "notes": "Anti-spam de l'écran de mort : un appui par seconde, un seul « Patientez » avec le temps restant, et des délais côté serveur sur les descriptions, messages de suivi et demandes de réveil (Config.AntiSpam)."
 }
