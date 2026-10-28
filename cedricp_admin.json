@@ -1,4 +1,4 @@
 {
-  "version": "2.3.0",
-  "notes": "/screenlive : jusqu'à 4 écrans de joueurs incrustés pendant qu'on joue (en haut à gauche, image réelle du jeu), déplaçables et redimensionnables (/screenlive sans argument ou /screenlivemanage). Les flux incrustés ne sont plus coupés en quittant la Vue en direct."
+  "version": "2.4.0",
+  "notes": "Groupes ESX synchronisés avec les rôles du panneau : le staff reçoit son groupe tout seul (retiré à la révocation), et les droits ESX de chaque groupe (commandes, héritage, ACE) se règlent dans Rôles et comptes › Groupes ESX."
 }
