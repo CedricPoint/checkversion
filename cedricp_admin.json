@@ -1,4 +1,4 @@
 {
-  "version": "2.6.1",
-  "notes": "Groupes ESX : deux rôles ne sont plus reliés au même groupe au premier démarrage (un ESX qui traitait superadmin comme fondateur donnait au Super admin les droits du Fondateur)."
+  "version": "2.7.0",
+  "notes": "Nouveaux tags admin au-dessus de la tête : pastille en dégradé avec reflet, halo et icône, pseudo en capsule, animations fluides. Choix de l'icône dans Paramètres › Tags admin."
 }
