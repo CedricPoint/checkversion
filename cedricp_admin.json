@@ -1,4 +1,4 @@
 {
-  "version": "2.8.0",
-  "notes": "Traduction anglaise complète (panneau, messages en jeu, journaux, Discord, console) : Config.Locale = 'en'. Chaque admin peut aussi choisir la langue de son panneau (Paramètres › Affichage). / Full English translation: set Config.Locale = 'en'."
+  "version": "2.9.0",
+  "notes": "Sanctions : types et durées prévues (réservables par rôle), historique complet de chaque joueur, jail hors RP dans une instance à part (cellules, sortie, temps restant, reprise à la reconnexion). Réglez les cellules dans Sanctions › Cellules et donnez les droits sanctions.* à vos rôles. / Sanctions, full history and out-of-character jail in a separate instance."
 }
