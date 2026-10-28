@@ -1,4 +1,4 @@
 {
-  "version": "2.5.0",
-  "notes": "Causes de la mort au-dessus du corps (arme, tueur avec son ID) pour le staff en service. Correctif : un véhicule sorti depuis le garage d'un joueur apparaît sous le joueur, et non plus sous l'admin."
+  "version": "2.6.0",
+  "notes": "Inventaire d'un joueur directement dans le panneau, avec tous les inventaires (voir, retirer, donner). Hiérarchie stricte : aucune action possible sur un membre du staff de rang égal ou supérieur."
 }
