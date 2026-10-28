@@ -1,4 +1,4 @@
 {
-  "version": "1.3.0",
-  "notes": "Traductions français / anglais, grade du staff détecté (cedricp-admin, ESX, ACE) et journaux Discord automatiques avec le bot VESPER."
+  "version": "1.3.1",
+  "notes": "Hiérarchie du staff : un membre du staff peut troller un grade strictement inférieur (réglable : hiérarchie, tout le staff protégé, ou aucune protection)."
 }
