@@ -1,4 +1,4 @@
 {
-  "version": "2.3.1",
-  "notes": "Plus de gel à la première ouverture du menu (métier lu une fois, catalogue préparé en arrière-plan), recherche plus rapide."
+  "version": "2.4.0",
+  "notes": "Pointer du doigt sur B par défaut, à pied seulement (rien en voiture, B reste libre pour la ceinture)."
 }
