@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
-  "notes": "Lignes d'échappement : 13 nouveaux sons exclusifs (packs add-on), 163 sons au total.",
-  "notes_en": "Exhaust lines: 13 new exclusive sounds (add-on packs), 163 sounds in total."
+  "version": "1.4.2",
+  "notes": "Atelier : l'aperçu n'applique plus que ce qui change et ne touche plus à la fumée des pneus (crash du jeu). Notifications aux bonnes couleurs et barres de progression par l'interface du serveur.",
+  "notes_en": "Tuneshop: the preview only applies what changed and no longer touches tyre smoke (game crash). Notifications with proper colours and progress bars through the server interface."
 }
