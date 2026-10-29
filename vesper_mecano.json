@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
-  "notes": "Panneau RGB libre pour les xénons, les néons et la fumée des pneus. Palette de peintures exacte (0 à 222 : anodisées, caméléon, irisées, prisma, holo), avec la texture des caméléons streamée (son absence faisait crasher le jeu). Toutes les valeurs de tuning sont vérifiées par le serveur.",
-  "notes_en": "Free RGB panel for xenons, neons and tyre smoke. Exact paint palette (0 to 222: anodized, chameleon, pearl, prisma, holo) with the chameleon ramp texture streamed (its absence crashed the game). Every tuning value is validated by the server."
+  "version": "1.2.0",
+  "notes": "Banc d'essai réel : accélérateur au plancher jusqu'à la vitesse de pointe, puissance, couple, 0-100, 0-200, 400 m, masse, transmission, améliorations ; l'écran du garage suit l'essai en direct. Palan posé sur le véhicule : extraire le moteur (d'origine ou non) puis descendre le nouveau, le véhicule prend ses caractéristiques. Prise de service depuis la tablette pour le personnel du garage.",
+  "notes_en": "Real dyno run: full throttle up to top speed, power, torque, 0-100, 0-200, quarter mile, weight, drivetrain, upgrades; the shop screen follows the run live. Hoist placed on the vehicle: pull the engine (stock or swapped) then lower the new one, the vehicle takes its stats. Shop staff can go on duty from the tablet."
 }
