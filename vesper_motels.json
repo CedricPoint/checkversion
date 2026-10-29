@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "Première version : créateur MLO / shell / IPL, réception, locations, clés, partage, employés, finances, améliorations, perquisitions, motels publics.",
-  "notes_en": "First release: MLO / shell / IPL creator, reception, rentals, keys, key sharing, staff, finances, upgrades, raids, public motels."
+  "version": "1.0.1",
+  "notes": "Plus aucun script Quasar requis : radio des chambres jouée par la page (volume selon la distance), garde-robe par vesper-apparence.",
+  "notes_en": "No Quasar script required anymore: room radio played by the page (distance-based volume), wardrobe through vesper-apparence."
 }
