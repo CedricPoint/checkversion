@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "notes": "Première version : accueil, scénarios, salle de sélection, identité, cinématique d'arrivée, choix du lieu, emplacements Tebex. Remplace qs-multicharacter.",
+  "notes_en": "First release: landing page, scenarios, selection room, identity, arrival cutscene, spawn selector, Tebex slots. Replaces qs-multicharacter."
+}
