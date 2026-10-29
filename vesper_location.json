@@ -1,5 +1,5 @@
 {
   "version": "1.4.1",
   "notes": "Paquet allégé : les outils de test internes ne sont plus livrés. Aucun changement en jeu.",
-  "notes_en": "Works with the VESPER scripts (vesper-inventory, vesper-cles, vesper-interface, vesper-banking) as well as Quasar: each linked script is the first started resource of its list. Engine started on handover, payments on the bank statement, server-style notifications."
+  "notes_en": "Lighter package: internal test tooling is no longer shipped. No gameplay change."
 }
