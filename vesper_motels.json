@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "Plus aucun script Quasar requis : radio des chambres jouée par la page (volume selon la distance), garde-robe par vesper-apparence.",
-  "notes_en": "No Quasar script required anymore: room radio played by the page (distance-based volume), wardrobe through vesper-apparence."
+  "version": "1.1.0",
+  "notes": "Autonome : ESX + ox_lib + oxmysql suffisent. Inventaire détecté (vesper-inventory, ox_inventory ou ESX seul), tenues détectées, plus aucune trace de Quasar. Testé sur un serveur vierge.",
+  "notes_en": "Standalone: ESX + ox_lib + oxmysql are enough. Inventory auto-detected (vesper-inventory, ox_inventory or plain ESX), wardrobe auto-detected, no Quasar left. Tested on a blank server."
 }
