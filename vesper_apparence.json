@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "Première version : boutiques de vêtements, barbier, tatouage, chirurgien, tenues et partage, vestiaires de métier, création de personnage, créateur en jeu (boutiques, peds, gants, packs, éditeur du catalogue, studio photo). Remplace qs-appearance.",
-  "notes_en": "First release: clothing shops, barber, tattoo, surgeon, outfits and sharing, job wardrobes, character creation, in-game creator (shops, peds, gloves, packs, catalog editor, photo studio). Replaces qs-appearance."
+  "version": "1.0.1",
+  "notes": "Invite [E] des boutiques et vestiaires redessinée (touche, type de boutique, prix d'entrée).",
+  "notes_en": "Redesigned [E] prompt for shops and wardrobes (key, shop type, entry price)."
 }
