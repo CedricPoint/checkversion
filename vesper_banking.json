@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "notes": "Appli LS Bourse : inscription dans lb-phone réessayée et tracée, réinscription au chargement du personnage. (1.1.0 : Bourse de Los Santos indexée sur de vraies actions, appli lb-phone, onglet Bourse à la banque.)",
-  "notes_en": "LS Bourse app: lb-phone registration retried and logged, re-registered on character load. (1.1.0: Los Santos Stock Exchange indexed on real stocks, lb-phone app, Bourse tab at the bank.)"
+  "version": "1.1.2",
+  "notes": "Guichetiers posés au sol (ils flottaient sur les banques reprises de qs-banking) ; PNJ, ordinateurs et distributeurs créés seulement à portée des joueurs.",
+  "notes_en": "Bank tellers placed on the ground (they floated on banks imported from qs-banking); peds, laptops and ATMs only created near players."
 }
