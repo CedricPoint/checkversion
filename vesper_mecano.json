@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "Première version : garages mécaniques de VESPER qui remplacent qs-mechanic-creator (mêmes tables). Créateur en jeu, atelier de tuning, ordres de travail, tablette, banc d'essai, nitro, échange de moteur, pont élévateur, remorquage, plateau, roues arrachées, tout-terrain, freins qui chauffent. Actions du mécanicien par ox_target.",
-  "notes_en": "First release: VESPER mechanic shops replacing qs-mechanic-creator (same tables). In-game creator, tuneshop, work orders, tablet, dyno, nitrous, engine swap, car lift, towing, flatbed, wheel damage, off-road, heated brakes. Mechanic actions through ox_target."
+  "version": "1.0.1",
+  "notes": "Actions ox_target réservées au métier mécano (posséder un garage ne suffit plus). Tablette du garage ouverte uniquement par l'objet : remise à l'embauche et au rachat, gratuite au magasin du garage pour le personnel ; commande /tablettemeca et option ox_target retirées.",
+  "notes_en": "ox_target actions limited to the mechanic job (owning a shop is no longer enough). Shop tablet opens only from the item: given on hire and purchase, free in the shop store for staff; /tablettemeca command and ox_target option removed."
 }
