@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "Français et anglais (Config.Langue). Tatouages des tenues de CedricP_Creator repris. Config, langues et données laissées en clair (escrow_ignore).",
-  "notes_en": "French and English (Config.Langue). CedricP_Creator outfit tattoos supported. Config, languages and data left open (escrow_ignore)."
+  "version": "1.2.1",
+  "notes": "Correctif : les visages de l'hérédité, les palettes de couleurs et les yeux s'affichaient écrasés en jeu. Français et anglais (Config.Langue). Tatouages des tenues de CedricP_Creator repris. Config, langues et données laissées en clair (escrow_ignore).",
+  "notes_en": "Fix: heritage faces, color palettes and eye colors were squashed in game. French and English (Config.Langue). CedricP_Creator outfit tattoos supported. Config, languages and data left open (escrow_ignore)."
 }
