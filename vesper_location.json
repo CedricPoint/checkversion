@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "notes": "Catalogue de tous les véhicules du jeu dans la gestion (recherche, catégories), cap réglable pour chaque sortie et le comptoir, choix de la société dans une liste, traduction anglaise (Config.Langue = 'en').",
-  "notes_en": "Catalogue of every game vehicle in the admin panel (search, categories), adjustable heading for each spawn point and the counter, society picker, English translation (Config.Langue = 'en')."
+  "version": "1.3.1",
+  "notes": "L'application « Location » apparaît maintenant dans l'App Store de lb-phone (elle n'y était pas listée), et ne s'enregistre plus deux fois.",
+  "notes_en": "The \"Location\" phone app now shows in the lb-phone App Store (it was not listed), and no longer registers twice."
 }
