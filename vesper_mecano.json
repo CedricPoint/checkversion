@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Prise de service : les actions du mécanicien sur les véhicules (ox_target) n'apparaissent qu'en service. Bouton dans la tablette et au vestiaire du garage, fin de service automatique au changement de métier, journal Discord.",
-  "notes_en": "Duty system: mechanic vehicle actions (ox_target) only show while on duty. Toggle in the tablet and at the shop wardrobe, duty ends automatically on job change, Discord log."
+  "version": "1.1.1",
+  "notes": "Palan moteur : poussé devant soi avec une vraie animation de poussée (il ne traverse plus le perso), et relâché il reste où on l'a laissé, avec son moteur suspendu, jusqu'au prochain redémarrage.",
+  "notes_en": "Engine hoist: pushed in front of you with a proper push animation (no more clipping), and once released it stays where you left it, engine still hanging, until the next restart."
 }
