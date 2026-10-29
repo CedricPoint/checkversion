@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "Actions ox_target réservées au métier mécano (posséder un garage ne suffit plus). Tablette du garage ouverte uniquement par l'objet : remise à l'embauche et au rachat, gratuite au magasin du garage pour le personnel ; commande /tablettemeca et option ox_target retirées.",
-  "notes_en": "ox_target actions limited to the mechanic job (owning a shop is no longer enough). Shop tablet opens only from the item: given on hire and purchase, free in the shop store for staff; /tablettemeca command and ox_target option removed."
+  "version": "1.0.2",
+  "notes": "La tablette du garage, le kit de réparation, l'éponge et la corde s'utilisent de nouveau depuis l'inventaire (ils ne faisaient rien).",
+  "notes_en": "The shop tablet, repair kit, sponge and rope can be used from the inventory again (they did nothing)."
 }
