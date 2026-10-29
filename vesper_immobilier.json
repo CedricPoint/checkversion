@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Menu d'administration : /immo ouvre l'onglet Admin du créateur (chiffres du parc, joueurs dans un logement, sortir un joueur bloqué) et chaque maison a une section Administration (entrer, téléporter, donner à un joueur, retirer le propriétaire, expulser le locataire, ranger ou supprimer tous les meubles).",
-  "notes_en": "Admin menu: /immo opens the creator Admin tab (stats, players inside a house, release a stuck player) and each house has an Administration section (enter, teleport, give to a player, remove owner, evict tenant, store or delete all furniture)."
+  "version": "1.1.1",
+  "notes": "Sécurité : les commandes /immo_* et les actions d'administration du menu sont réservées aux admins (les agents immobiliers ne modifient plus que les maisons sans propriétaire). Visites : la sortie en fin de visite est garantie. Le retour automatique à la porte ne se déclenche plus dans les grandes maisons.",
+  "notes_en": "Security: /immo_* commands and admin menu actions are admin-only (real estate agents can only edit unowned houses). Visits: leaving at the end of a visit is guaranteed. The automatic return to the door no longer triggers in large houses."
 }
