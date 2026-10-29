@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "Essai routier enrichi : fiche technique de la voiture dès le départ (classe, notes, vitesse de pointe réelle, masse, boîte, transmission, adhérence), compteur à l'échelle de la voiture avec compte-tours et rapport engagé, mesures en roulant (0-100 km/h, vitesse max, freinage 100-0, G latéral, distance) et bilan en fin d'essai.",
-  "notes_en": "Richer test drive: the car's spec sheet from the start (class, ratings, real top speed, weight, gearbox, drivetrain, grip), a speedometer scaled to the car with rev counter and current gear, live measurements (0-100 km/h, top speed, 100-0 braking, lateral G, distance) and a summary at the end."
+  "version": "1.3.0",
+  "notes": "Fonctionne sans aucune donnée Quasar : sur une base neuve, le catalogue de départ (529 véhicules avec marque, catégorie, performances et prix) s'installe tout seul. Config.CatalogueDeDepart = false pour démarrer sans.",
+  "notes_en": "Works without any Quasar data: on a fresh database the starter catalogue (529 vehicles with brand, category, performance and price) installs itself. Config.CatalogueDeDepart = false to start without it."
 }
