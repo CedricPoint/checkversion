@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
-  "notes": "Les maisons apparaissent sous leur vrai nom dans la page des lieux (« Ma maison », « Maison à vendre »…) au lieu de « Planque ».",
-  "notes_en": "Houses now show their real name on the places page (\"My house\", \"House for sale\"…) instead of \"Safehouse\"."
+  "version": "1.2.0",
+  "notes": "Coques : un paquet de coques installé est détecté tout seul (nom contenant « shell » ou `vesper_coque` dans son fxmanifest), même à chaud. Nouvel onglet Coques dans /immo : nom, catégorie, coffre, visibilité et porte de chaque coque. La porte est retenue par coque et placée d'elle-même dans les nouvelles maisons. Les coques non installées ne sont plus proposées.",
+  "notes_en": "Shells: an installed shell pack is detected automatically (name containing \"shell\" or `vesper_coque` in its fxmanifest), even while running. New Shells tab in /immo: name, category, storage, visibility and door of each shell. The door is remembered per shell and placed automatically in new houses. Shells that are not installed are no longer offered."
 }
