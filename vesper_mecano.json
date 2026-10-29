@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "notes": "Pose des commandes plus rapide : repères toujours hors du véhicule (portière conducteur pour l'intérieur), pièces d'un même endroit posées ensemble, 3 s par pièce. Peintures principale et secondaire en RGB libre avec finition. Lignes d'échappement : 150 sons sans nom de marque, nouvelles rubriques (sons spéciaux, course, drift, rallye).",
-  "notes_en": "Faster order fitting: markers always outside the vehicle (driver door for interior parts), parts at the same spot fitted together, 3 s per part. Free RGB primary and secondary paint with finish. Exhaust lines: 150 sounds without brand names, new categories (special, racing, drift, rally)."
+  "version": "1.4.1",
+  "notes": "Lignes d'échappement : 13 nouveaux sons exclusifs (packs add-on), 163 sons au total.",
+  "notes_en": "Exhaust lines: 13 new exclusive sounds (add-on packs), 163 sounds in total."
 }
