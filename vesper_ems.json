@@ -1,4 +1,4 @@
 {
-  "version": "1.4.5",
-  "notes": "Un relevé par le staff efface aussi les blessures : /revive d'un administrateur, console du serveur et menus d'administration (esx_ambulancejob:revive / :heal). Le soignant relève toujours sans soigner."
+  "version": "1.5.0",
+  "notes": "Compatible avec les ressources qui remplacent Quasar par provide (vesper-inventory, vesper-interface, vesper-cles) : boutique, objets, notifications et clés passent par la première ressource démarrée de Config.Ponts, Quasar en repli, ESX sans inventaire. Commande console emsponts pour vérifier."
 }
