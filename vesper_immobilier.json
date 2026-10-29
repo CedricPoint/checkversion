@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "notes": "Sécurité : les commandes /immo_* et les actions d'administration du menu sont réservées aux admins (les agents immobiliers ne modifient plus que les maisons sans propriétaire). Visites : la sortie en fin de visite est garantie. Le retour automatique à la porte ne se déclenche plus dans les grandes maisons.",
-  "notes_en": "Security: /immo_* commands and admin menu actions are admin-only (real estate agents can only edit unowned houses). Visits: leaving at the end of a visit is guaranteed. The automatic return to the door no longer triggers in large houses."
+  "version": "1.1.2",
+  "notes": "Les maisons apparaissent sous leur vrai nom dans la page des lieux (« Ma maison », « Maison à vendre »…) au lieu de « Planque ».",
+  "notes_en": "Houses now show their real name on the places page (\"My house\", \"House for sale\"…) instead of \"Safehouse\"."
 }
