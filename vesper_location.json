@@ -1,5 +1,5 @@
 {
-  "version": "1.3.1",
-  "notes": "L'application « Location » apparaît maintenant dans l'App Store de lb-phone (elle n'y était pas listée), et ne s'enregistre plus deux fois.",
-  "notes_en": "The \"Location\" phone app now shows in the lb-phone App Store (it was not listed), and no longer registers twice."
+  "version": "1.3.2",
+  "notes": "L'application « Location » reste dans l'App Store de lb-phone en permanence : nouvel essai tant que le téléphone n'est pas prêt, contrôle toutes les 30 s, rétablie aussitôt après un redémarrage de lb-phone.",
+  "notes_en": "The \"Location\" phone app stays in the lb-phone App Store at all times: retried while the phone is not ready, checked every 30 s, restored right after an lb-phone restart."
 }
