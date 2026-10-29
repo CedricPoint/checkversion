@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "Première version : concessions de VESPER à la place de qs-dealership (mêmes tables). Showroom cinématique, caisse fractionnée et crédit, essais, rachat, concessions tenues par un joueur ou un métier, réappro, bureau de vente, voitures exposées, créateur en caméra libre.",
-  "notes_en": "First release: VESPER dealerships replacing qs-dealership (same tables). Cinematic showroom, split payment and finance, test drives, buyback, player- or job-owned dealerships, restock runs, sales desk, display cars, free-camera creator."
+  "version": "1.0.1",
+  "notes": "Les photos des véhicules s'affichent de nouveau (repli sur les photos FiveM). Couleurs, tris, filtres et moyens de paiement du showroom répondent aux clics. Le joueur est adossé à la voiture au lieu de s'enfoncer dans le sol. Plus de touche F6 par défaut : /concession.",
+  "notes_en": "Vehicle pictures show again (falls back to FiveM pictures). Showroom colours, sorting, filters and payment methods respond to clicks. The player leans on the car instead of sinking into the floor. No default F6 key any more: /concession."
 }
