@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "Sortie des logements fiabilisée (retour dans la maison après une reconnexion ou un redémarrage, collision de la coque attendue, retour à la porte en cas de chute, commande /sortirlogement). Décoration : bouton « Tout ranger dans la réserve ». Commandes d'administration /immo (donner, retirer, vider, tp, entrer, sortir, expulser, info).",
-  "notes_en": "Reliable house exit (back inside after reconnect or restart, shell collision awaited, back to the door after a fall, /sortirlogement command). Decoration: \"Store everything\" button. Admin commands /immo (give, remove, clear, tp, enter, exit, evict, info)."
+  "version": "1.1.0",
+  "notes": "Menu d'administration : /immo ouvre l'onglet Admin du créateur (chiffres du parc, joueurs dans un logement, sortir un joueur bloqué) et chaque maison a une section Administration (entrer, téléporter, donner à un joueur, retirer le propriétaire, expulser le locataire, ranger ou supprimer tous les meubles).",
+  "notes_en": "Admin menu: /immo opens the creator Admin tab (stats, players inside a house, release a stuck player) and each house has an Administration section (enter, teleport, give to a player, remove owner, evict tenant, store or delete all furniture)."
 }
