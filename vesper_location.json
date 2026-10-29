@@ -1,0 +1,4 @@
+{
+  "version": "1.2.0",
+  "notes": "Première version : agences de location créées en jeu (comptoir et sorties en caméra libre, bateaux compris), application lb-phone (localiser, récupération par l'agence), véhicule et clé repris à la fin."
+}
