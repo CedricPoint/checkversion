@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "Inventaire détecté tout seul (vesper-inventory, qs-inventory ou ox_inventory), nom de la banque et préfixe des comptes réglables. Première version en vente.",
-  "notes_en": "Inventory auto-detected (vesper-inventory, qs-inventory or ox_inventory), configurable bank brand and account prefix. First version on sale."
+  "version": "1.2.1",
+  "notes": "Nettoyage interne, rien de visible. (1.2.0 : inventaire détecté tout seul — vesper-inventory, qs-inventory ou ox_inventory —, nom de la banque et préfixe des comptes réglables.)",
+  "notes_en": "Internal cleanup, no visible change. (1.2.0: inventory auto-detected — vesper-inventory, qs-inventory or ox_inventory —, configurable bank brand and account prefix.)"
 }
