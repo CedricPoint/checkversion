@@ -1,4 +1,4 @@
 {
-  "version": "1.7.0",
-  "notes": "Prise en charge native de vesper-inventory (détecté tout seul, Config.Inventaire ; qs-inventory reste compatible). Armurerie et matériel en vraie boutique de l'inventaire, réservée au métier, au grade et à l'agent ; chaque retrait part au journal Discord « armurerie ». Tablette ouverte avec la souris depuis l'objet."
+  "version": "1.7.1",
+  "notes": "Paquet allégé : les outils de test internes ne sont plus livrés. Aucun changement de fonctionnement ; les diagnostics /lspddiag et lspdqui restent disponibles. (1.7.0 : prise en charge native de vesper-inventory, armurerie en vraie boutique de l'inventaire, retraits journalisés.)"
 }
