@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "Banc d'essai réel : accélérateur au plancher jusqu'à la vitesse de pointe, puissance, couple, 0-100, 0-200, 400 m, masse, transmission, améliorations ; l'écran du garage suit l'essai en direct. Palan posé sur le véhicule : extraire le moteur (d'origine ou non) puis descendre le nouveau, le véhicule prend ses caractéristiques. Prise de service depuis la tablette pour le personnel du garage.",
-  "notes_en": "Real dyno run: full throttle up to top speed, power, torque, 0-100, 0-200, quarter mile, weight, drivetrain, upgrades; the shop screen follows the run live. Hoist placed on the vehicle: pull the engine (stock or swapped) then lower the new one, the vehicle takes its stats. Shop staff can go on duty from the tablet."
+  "version": "1.2.1",
+  "notes": "Fonctionne sans aucun script Quasar et sans chacune des ressources branchées (inventaire, clés, facturation, carburant, interface, apparence, bot Discord) : replis ESX / ox_lib, commandes payées à la commande sans facturation.",
+  "notes_en": "Works without any Quasar script and without each linked resource (inventory, keys, billing, fuel, interface, appearance, Discord bot): ESX / ox_lib fallbacks, orders paid upfront when no billing."
 }
