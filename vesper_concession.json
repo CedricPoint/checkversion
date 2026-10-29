@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "notes": "La bulle « Fermer (Échap) » de la fenêtre de gestion ne s'affiche plus à la verticale. Le bandeau [E] devant les concessions est redessiné, plus sobre.",
-  "notes_en": "The management window's \"Close (Esc)\" tooltip no longer shows vertically. The [E] prompt in front of dealerships is redesigned, cleaner."
+  "version": "1.2.0",
+  "notes": "Essai routier enrichi : fiche technique de la voiture dès le départ (classe, notes, vitesse de pointe réelle, masse, boîte, transmission, adhérence), compteur à l'échelle de la voiture avec compte-tours et rapport engagé, mesures en roulant (0-100 km/h, vitesse max, freinage 100-0, G latéral, distance) et bilan en fin d'essai.",
+  "notes_en": "Richer test drive: the car's spec sheet from the start (class, ratings, real top speed, weight, gearbox, drivetrain, grip), a speedometer scaled to the car with rev counter and current gear, live measurements (0-100 km/h, top speed, 100-0 braking, lateral G, distance) and a summary at the end."
 }
