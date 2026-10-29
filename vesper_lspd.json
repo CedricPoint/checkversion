@@ -1,4 +1,4 @@
 {
-  "version": "1.6.2",
-  "notes": "Sortie des cellules propre à chaque poste (/lspdadmin, onglet Cellules) : une garde à vue terminée relâche à cette sortie, jamais à celle de la prison. Correctif : la sortie de cellule n'était pas envoyée aux joueurs. Une peine finie hors ligne relâche au bon point à la reconnexion. Journaux admin détaillés (positions avant / après) et sortie anormale de cellule signalée."
+  "version": "1.7.0",
+  "notes": "Prise en charge native de vesper-inventory (détecté tout seul, Config.Inventaire ; qs-inventory reste compatible). Armurerie et matériel en vraie boutique de l'inventaire, réservée au métier, au grade et à l'agent ; chaque retrait part au journal Discord « armurerie ». Tablette ouverte avec la souris depuis l'objet."
 }
