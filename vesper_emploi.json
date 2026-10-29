@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "Pôle emploi : métiers libres signés à la borne, métiers gérés par les joueurs sur candidature, application Emploi du téléphone (postuler, échanger avec les patrons, recrutement, annonce, équipe).",
-  "notes_en": "Job center: free jobs signed at the kiosk, player-run jobs by application, Jobs phone app (apply, chat with bosses, hiring, job ad, team)."
+  "version": "1.1.0",
+  "notes": "Traduction anglaise complète (Config.Langue = 'en'), plus aucune démission (on quitte un métier géré par les joueurs quand l'employeur vous renvoie), affichage du téléphone corrigé sur écran étroit.",
+  "notes_en": "Full English translation (Config.Langue = 'en'), no more self-resignation (you leave a player-run job when your employer lets you go), phone layout fixed on narrow screens."
 }
