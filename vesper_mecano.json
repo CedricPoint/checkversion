@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "notes": "Lignes d'échappement : le mécanicien change le son moteur d'un seul véhicule (sons du jeu et packs add-on), avec aperçu avant la pose ; gardé par plaque, entendu par tous, facturé au propriétaire.",
-  "notes_en": "Exhaust lines: the mechanic changes the engine sound of a single vehicle (game sounds and add-on packs), with a preview before fitting; saved per plate, heard by everyone, billed to the owner."
+  "version": "1.3.1",
+  "notes": "Lignes d'échappement : 101 sons (2 packs exclusifs + 99 sons du jeu vérifiés), rangés par rubriques : supersportives, sportives, JDM, muscle, classiques, électriques, moteurs de moto.",
+  "notes_en": "Exhaust lines: 101 sounds (2 exclusive packs + 99 verified game sounds), sorted by category: supercars, sports, JDM, muscle, classics, electric, motorbike engines."
 }
