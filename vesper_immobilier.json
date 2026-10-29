@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "notes": "Première version : remplace qs-housing (mêmes tables, mêmes exports). Maisons en coques, IPL et MLO ; achat comptant ou à crédit, location, clés et clés physiques, coffre, garde-robe, factures, décoration, magasins de meubles, agences immobilières tenues par des joueurs, créateur en jeu.",
+  "notes_en": "First release: replaces qs-housing (same tables, same exports). Shell, IPL and MLO houses; cash or mortgage purchase, rentals, keys and physical keys, stash, wardrobe, bills, decoration, furniture shops, player-run real estate agencies, in-game creator."
+}
