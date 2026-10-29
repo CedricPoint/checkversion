@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Salle de sélection repensée : clic sur un personnage = gros plan devant son visage + fiche détaillée, étiquettes posées sur les personnages, barre des emplacements, contour au survol. Musique intégrée avec lecteur (fini YouTube). Nouvelles icônes et panneaux. Config commentée, prête à l'emploi.",
-  "notes_en": "Redesigned selection room: clicking a character zooms the camera on them with a detailed card, tags follow the characters, slot bar, hover outline. Built-in music player (no more YouTube). New icons and panels. Fully commented config."
+  "version": "1.2.0",
+  "notes": "Fonctionne sur un ESX neuf : colonnes d'identité de users créées si absentes. illenium-appearance accepté (Config.Apparence). Places libres de la salle opaques (fini le tramage).",
+  "notes_en": "Works on a fresh ESX: identity columns of users created if missing. illenium-appearance supported (Config.Apparence). Empty slots in the room are opaque (no more dithering)."
 }
