@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "notes": "La clé d'un véhicule acheté porte son modèle, et elle est donnée aussi quand la voiture part au garage. Le showroom ne perd plus son masquage du HUD après un achat.",
-  "notes_en": "The key of a bought vehicle carries its model, and is also given when the car goes to the garage. The showroom no longer loses its HUD hiding after a purchase."
+  "version": "1.1.0",
+  "notes": "Nouveau thème sur toutes les interfaces : fiche du véhicule refaite au showroom, catalogue, peinture, performances, caisse façon reçu, écran de fin d'achat avec la plaque, compteur d'essai, fenêtre de gestion et créateur retravaillés. La teinte de chaque concession colore son showroom. Aucun changement de données ni de commandes.",
+  "notes_en": "New theme on every interface: redesigned vehicle card in the showroom, catalogue, paint, performance, receipt-style checkout, purchase screen with the plate, test-drive gauge, reworked management window and creator. Each dealership's accent colours its showroom. No data or command changes."
 }
