@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "Le joueur qui redevient humain retrouve sa tenue par vesper-apparence (le script ne dépend plus de qs-appearance).",
-  "notes_en": "Players turning human again get their outfit back through vesper-apparence (no longer depends on qs-appearance)."
+  "version": "1.0.2",
+  "notes": "Compatible sv_stateBagStrictMode : les zombies et les drapeaux des joueurs sont marqués par le serveur (avant, la horde pouvait réapparaître sans fin et les éliminations ne comptaient pas).",
+  "notes_en": "sv_stateBagStrictMode compatible: zombies and player flags are now set by the server (previously the horde could respawn endlessly and kills were not counted)."
 }
