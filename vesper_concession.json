@@ -1,5 +1,5 @@
 {
   "version": "1.3.1",
-  "notes": "Refuse le démarrage du vrai qs-dealership tant que vesper-concession tourne (un restart qs-dealership le relançait et arrêtait la concession). Catalogue de départ de 529 véhicules sur une base neuve.",
-  "notes_en": "Refuses to start the real qs-dealership while vesper-concession runs (a restart qs-dealership brought it back and stopped the dealership). 529-vehicle starter catalogue on a fresh database."
+  "notes": "Un restart qs-dealership ne remet plus le vrai Quasar à la place de la concession (renvoi vers vesper-concession). Catalogue de départ de 529 véhicules sur une base neuve.",
+  "notes_en": "A restart qs-dealership no longer puts the real Quasar back in place of the dealership (redirect to vesper-concession). 529-vehicle starter catalogue on a fresh database."
 }
