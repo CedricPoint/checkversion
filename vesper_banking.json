@@ -1,0 +1,5 @@
+{
+  "version": "1.0.1",
+  "notes": "Banque maison qui remplace qs-banking : comptes et numéros de compte, cartes et distributeurs (code haché), virements même hors ligne, entreprises, paiements programmés, prêts au score de crédit, banques à acheter, créateur en caméra libre, journaux Discord ; notifications par vesper-interface.",
+  "notes_en": "In-house bank replacing qs-banking: accounts and account numbers, cards and ATMs (hashed PIN), offline transfers, company accounts, standing orders, credit-score loans, buyable banks, free-camera creator, Discord logs; notifications through vesper-interface."
+}
