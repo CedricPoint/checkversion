@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "Les photos des véhicules s'affichent de nouveau (repli sur les photos FiveM). Couleurs, tris, filtres et moyens de paiement du showroom répondent aux clics. Le joueur est adossé à la voiture au lieu de s'enfoncer dans le sol. Plus de touche F6 par défaut : /concession.",
-  "notes_en": "Vehicle pictures show again (falls back to FiveM pictures). Showroom colours, sorting, filters and payment methods respond to clicks. The player leans on the car instead of sinking into the floor. No default F6 key any more: /concession."
+  "version": "1.0.2",
+  "notes": "La clé d'un véhicule acheté porte son modèle, et elle est donnée aussi quand la voiture part au garage. Le showroom ne perd plus son masquage du HUD après un achat.",
+  "notes_en": "The key of a bought vehicle carries its model, and is also given when the car goes to the garage. The showroom no longer loses its HUD hiding after a purchase."
 }
