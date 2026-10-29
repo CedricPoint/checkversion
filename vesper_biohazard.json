@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "notes": "Première version : épidémies de zombies réglables entièrement en jeu (événements, zones, ambiance, horde, infection, récompenses, réglages généraux), classement, niveaux et rangs, démarrage automatique, application lb-phone. Remplace qs-biohazard avec les mêmes tables.",
+  "notes_en": "First release: zombie outbreaks fully configurable in game (events, zones, ambience, horde, infection, rewards, global settings), kill scoreboard, levels and ranks, auto start, lb-phone app. Replaces qs-biohazard using the same tables."
+}
