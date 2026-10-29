@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "Première version : atelier de couture en jeu (peinture UV, texte, motifs, images, aperçu 3D), publication en vêtements streamés sans redémarrage, modération, import de packs.",
-  "notes_en": "First release: in-game clothing workshop (UV painting, text, patterns, images, 3D preview), publishing as streamed clothing without restart, moderation, pack import."
+  "version": "1.0.1",
+  "notes": "Vêtements publiés invisibles en jeu (torse nu) : textures calquées sur celles du jeu (Usage, drapeaux, mips jusqu'à 4×4). Essayage d'un haut avec ses bras. Page plus solide pendant un chargement.",
+  "notes_en": "Published clothing invisible in game (bare torso): textures now match the game's own (usage, flags, mips down to 4×4). Trying on a top sets its arms. Page sturdier while loading."
 }
