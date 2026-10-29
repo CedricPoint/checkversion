@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "notes": "Palan moteur : poussé devant soi avec une vraie animation de poussée (il ne traverse plus le perso), et relâché il reste où on l'a laissé, avec son moteur suspendu, jusqu'au prochain redémarrage.",
-  "notes_en": "Engine hoist: pushed in front of you with a proper push animation (no more clipping), and once released it stays where you left it, engine still hanging, until the next restart."
+  "version": "1.1.2",
+  "notes": "Panneau RGB libre pour les xénons, les néons et la fumée des pneus. Palette de peintures exacte (0 à 222 : anodisées, caméléon, irisées, prisma, holo), avec la texture des caméléons streamée (son absence faisait crasher le jeu). Toutes les valeurs de tuning sont vérifiées par le serveur.",
+  "notes_en": "Free RGB panel for xenons, neons and tyre smoke. Exact paint palette (0 to 222: anodized, chameleon, pearl, prisma, holo) with the chameleon ramp texture streamed (its absence crashed the game). Every tuning value is validated by the server."
 }
