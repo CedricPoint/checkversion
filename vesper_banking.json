@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Bourse de Los Santos : 13 sociétés indexées sur de vraies actions (Yahoo Finance), appli lb-phone « LS Bourse » téléchargeable dans l'App Store, onglet Bourse à la banque, frais, impôt et plafonds de gains, journaux Discord (salon bourse), chocs de marché en console.",
-  "notes_en": "Los Santos Stock Exchange: 13 companies indexed on real stocks (Yahoo Finance), downloadable lb-phone app « LS Bourse », Bourse tab at the bank, fees, tax and gain caps, Discord logs (bourse channel), console market shocks."
+  "version": "1.1.1",
+  "notes": "Appli LS Bourse : inscription dans lb-phone réessayée et tracée, réinscription au chargement du personnage. (1.1.0 : Bourse de Los Santos indexée sur de vraies actions, appli lb-phone, onglet Bourse à la banque.)",
+  "notes_en": "LS Bourse app: lb-phone registration retried and logged, re-registered on character load. (1.1.0: Los Santos Stock Exchange indexed on real stocks, lb-phone app, Bourse tab at the bank.)"
 }
