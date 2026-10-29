@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "Invite [E] des boutiques et vestiaires redessinée (touche, type de boutique, prix d'entrée).",
-  "notes_en": "Redesigned [E] prompt for shops and wardrobes (key, shop type, entry price)."
+  "version": "1.0.2",
+  "notes": "Les boutiques portent leur vrai nom sur la carte (fini « Combinaison de travail ») ; noms anglais par défaut ignorés.",
+  "notes_en": "Shops now show their real name on the map legend; default English names are ignored."
 }
