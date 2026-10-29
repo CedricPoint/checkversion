@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "notes": "Fonctionne sans aucune donnée Quasar : sur une base neuve, le catalogue de départ (529 véhicules avec marque, catégorie, performances et prix) s'installe tout seul. Config.CatalogueDeDepart = false pour démarrer sans.",
-  "notes_en": "Works without any Quasar data: on a fresh database the starter catalogue (529 vehicles with brand, category, performance and price) installs itself. Config.CatalogueDeDepart = false to start without it."
+  "version": "1.3.1",
+  "notes": "Refuse le démarrage du vrai qs-dealership tant que vesper-concession tourne (un restart qs-dealership le relançait et arrêtait la concession). Catalogue de départ de 529 véhicules sur une base neuve.",
+  "notes_en": "Refuses to start the real qs-dealership while vesper-concession runs (a restart qs-dealership brought it back and stopped the dealership). 529-vehicle starter catalogue on a fresh database."
 }
