@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "Fonctionne sur un ESX neuf : colonnes d'identité de users créées si absentes. illenium-appearance accepté (Config.Apparence). Places libres de la salle opaques (fini le tramage).",
-  "notes_en": "Works on a fresh ESX: identity columns of users created if missing. illenium-appearance supported (Config.Apparence). Empty slots in the room are opaque (no more dithering)."
+  "version": "1.3.0",
+  "notes": "Scènes d'entrée déplacées en extérieur (Maze Bank Tower, Chiliad, Kortz Center) : sol cherché sur place, place libre vérifiée, scène suivante si un mapping occupe l'endroit. Reprise de CedricP_Register (emplacements, tatouages). Français et anglais.",
+  "notes_en": "Entry scenes moved outdoors (Maze Bank Tower, Chiliad, Kortz Center): ground found on the spot, free space checked, next scene if a mapping blocks the spot. CedricP_Register takeover (slots, tattoos). French and English."
 }
