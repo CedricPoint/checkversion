@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Nouveau thème sur toutes les interfaces : fiche du véhicule refaite au showroom, catalogue, peinture, performances, caisse façon reçu, écran de fin d'achat avec la plaque, compteur d'essai, fenêtre de gestion et créateur retravaillés. La teinte de chaque concession colore son showroom. Aucun changement de données ni de commandes.",
-  "notes_en": "New theme on every interface: redesigned vehicle card in the showroom, catalogue, paint, performance, receipt-style checkout, purchase screen with the plate, test-drive gauge, reworked management window and creator. Each dealership's accent colours its showroom. No data or command changes."
+  "version": "1.1.1",
+  "notes": "La bulle « Fermer (Échap) » de la fenêtre de gestion ne s'affiche plus à la verticale. Le bandeau [E] devant les concessions est redessiné, plus sobre.",
+  "notes_en": "The management window's \"Close (Esc)\" tooltip no longer shows vertically. The [E] prompt in front of dealerships is redesigned, cleaner."
 }
