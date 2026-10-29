@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "notes": "Les boutiques portent leur vrai nom sur la carte (fini « Combinaison de travail ») ; noms anglais par défaut ignorés.",
-  "notes_en": "Shops now show their real name on the map legend; default English names are ignored."
+  "version": "1.1.0",
+  "notes": "Fonctionne sur un serveur neuf sans Quasar : catalogue des vêtements lu dans le jeu par le premier joueur connecté (/apparence-catalogue pour les packs ajoutés ensuite), 28 boutiques de GTA et liste des peds posées au premier démarrage, colonne users.skin créée si absente.",
+  "notes_en": "Works on a fresh server without Quasar: clothing catalogue read from the game by the first connected player (/apparence-catalogue for packs added later), 28 GTA shops and ped list seeded on first start, users.skin column created if missing."
 }
