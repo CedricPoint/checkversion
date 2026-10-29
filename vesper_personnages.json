@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "Première version : accueil, scénarios, salle de sélection, identité, cinématique d'arrivée, choix du lieu, emplacements Tebex. Remplace qs-multicharacter.",
-  "notes_en": "First release: landing page, scenarios, selection room, identity, arrival cutscene, spawn selector, Tebex slots. Replaces qs-multicharacter."
+  "version": "1.0.1",
+  "notes": "Personnages posés au sol dans la salle de sélection (intérieur chargé avant de les créer) ; choix du lieu redessiné (vue sous les nuages, faisceau sur le lieu, liste et carte revues).",
+  "notes_en": "Characters placed on the floor in the selection room (interior loaded first); spawn selector redesigned (camera below the clouds, beam on the spot, new list and card)."
 }
