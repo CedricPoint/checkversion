@@ -1,5 +1,5 @@
 {
-  "version": "1.3.1",
-  "notes": "Correctif : la page ne se chargeait pas (fichier de langue non envoyé aux joueurs). Scènes d'entrée déplacées en extérieur (Maze Bank Tower, Chiliad, Kortz Center) : sol cherché sur place, place libre vérifiée, scène suivante si un mapping occupe l'endroit. Reprise de CedricP_Register (emplacements, tatouages). Français et anglais.",
-  "notes_en": "Fix: the page did not load (language file not sent to players). Entry scenes moved outdoors (Maze Bank Tower, Chiliad, Kortz Center): ground found on the spot, free space checked, next scene if a mapping blocks the spot. CedricP_Register takeover (slots, tattoos). French and English."
+  "version": "1.3.2",
+  "notes": "Lecteur de musique rangé dans le bandeau (il cachait les étiquettes), vue d'ensemble de la salle calculée sur place, suppression du personnage réglable (Config.SuppressionPersonnage : oui, non ou admin). Scènes d'entrée déplacées en extérieur (Maze Bank Tower, Chiliad, Kortz Center) : sol cherché sur place, place libre vérifiée, scène suivante si un mapping occupe l'endroit. Reprise de CedricP_Register (emplacements, tatouages). Français et anglais.",
+  "notes_en": "Music player moved into the header (it covered the tags), room overview computed on the spot, character deletion setting (Config.SuppressionPersonnage: yes, no or admin). Entry scenes moved outdoors (Maze Bank Tower, Chiliad, Kortz Center): ground found on the spot, free space checked, next scene if a mapping blocks the spot. CedricP_Register takeover (slots, tattoos). French and English."
 }
