@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "notes": "Première version : créateur en jeu (/shopcreator), comptoir avec panier, points de rachat, meilleur prix, commerces achetables (stock, employés, promotions, caisse), parts des sociétés. Remplace qs-shops-creator sur les mêmes tables.",
+  "notes_en": "First release: in-game creator (/shopcreator), shop counter with cart, buy-back points, best price finder, purchasable businesses (stock, employees, promotions, till), society revenue share. Replaces qs-shops-creator on the same tables."
+}
