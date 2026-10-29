@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "notes": "La tablette du garage, le kit de réparation, l'éponge et la corde s'utilisent de nouveau depuis l'inventaire (ils ne faisaient rien).",
-  "notes_en": "The shop tablet, repair kit, sponge and rope can be used from the inventory again (they did nothing)."
+  "version": "1.1.0",
+  "notes": "Prise de service : les actions du mécanicien sur les véhicules (ox_target) n'apparaissent qu'en service. Bouton dans la tablette et au vestiaire du garage, fin de service automatique au changement de métier, journal Discord.",
+  "notes_en": "Duty system: mechanic vehicle actions (ox_target) only show while on duty. Toggle in the tablet and at the shop wardrobe, duty ends automatically on job change, Discord log."
 }
