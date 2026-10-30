@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
-  "notes": "Paquet allégé : les outils de test internes ne sont plus livrés. Aucun changement en jeu.",
-  "notes_en": "Lighter package: internal test tooling is no longer shipped. No gameplay change."
+  "version": "1.4.2",
+  "notes": "Plus rapide (comptoirs, sorties, reprise des clés, index en base). Administration réservée par défaut aux groupes fondateur et superadmin.",
+  "notes_en": "Faster (counters, spawn points, key recovery, database index). Administration limited by default to the fondateur and superadmin groups."
 }
