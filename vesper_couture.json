@@ -1,5 +1,5 @@
 {
-  "version": "1.3.1",
-  "notes": "15 polices d'écriture dans l'atelier ; « Essayer » garde la tenue sur le personnage ; tenue remise après un redémarrage des vêtements ; nom et image des créations dans l'inventaire.",
-  "notes_en": "15 fonts in the workshop; \"Try on\" keeps the outfit on the character; outfit restored after a clothing restart; creation name and picture in the inventory."
+  "version": "1.3.2",
+  "notes": "Correctif important : l'atelier ne crée plus de collection au-delà de la limite du jeu (sinon le personnage ne se crée plus : erreur CREATE_PED au spawn).",
+  "notes_en": "Important fix: the workshop no longer creates collections beyond the game limit (otherwise characters fail to spawn: CREATE_PED error)."
 }
