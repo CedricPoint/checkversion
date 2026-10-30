@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "notes": "Première version : tablette (F10 ou objet tablet), créateur de tracés en jeu (points de passage, pneus, drapeaux), courses Sprint et Circuit avec mise, dotation, catégorie et DNF, compétitions classées à l'ELO sur tracés vérifiés, mode Drift au score avec son classement. Remplace qs-advancedracing (mêmes tables racing_*).",
+  "notes_en": "First release: tablet (F10 or tablet item), in-game track creator (checkpoints, tyres, flags), Sprint and Circuit races with buy-in, prize, vehicle class and DNF timer, ELO-ranked competitions on verified tracks, score-based Drift mode with its own leaderboard. Replaces qs-advancedracing (same racing_* tables)."
+}
