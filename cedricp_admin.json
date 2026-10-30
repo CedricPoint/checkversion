@@ -1,4 +1,4 @@
 {
-  "version": "2.12.0",
-  "notes": "Nouvel écran Scripts : les menus d'administration de vos autres scripts, détectés au démarrage (droit scripts.view). / New Scripts screen: your other scripts' admin menus, detected at startup (scripts.view permission)."
+  "version": "2.13.0",
+  "notes": "Densité selon le nombre de joueurs : des paliers baissent PNJ et circulation quand le serveur se remplit, jusqu'à tout enlever (Centre de contrôle, désactivé par défaut). / Density by player count: tiers lower NPCs and traffic as the server fills up, down to removing everything (Control center, off by default)."
 }
