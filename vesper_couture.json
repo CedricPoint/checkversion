@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "notes": "Vêtements publiés enfin visibles : le vêtement est renommé à l'intérieur de son fichier .ydd (le jeu le cherche par son nom ; avant, torse nu).",
-  "notes_en": "Published clothing now visible: the drawable is renamed inside its .ydd file (the game looks it up by name; previously a bare torso)."
+  "version": "1.0.3",
+  "notes": "Le fichier de métadonnées « créature » de chaque collection est toujours fabriqué (comme toutes les collections du jeu) ; commande /couturediag pour diagnostiquer un vêtement invisible.",
+  "notes_en": "Each collection's creature metadata file is always built (like every game collection); /couturediag command to diagnose an invisible item."
 }
