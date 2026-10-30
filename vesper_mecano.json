@@ -1,5 +1,5 @@
 {
-  "version": "1.6.1",
-  "notes": "Nouvelle fiche d'entretien : panneau à droite (la voiture reste visible), jauges d'usure vidange / pneus / freins, n° de série copiable, état carrosserie et moteur. Chaque entretien est tamponné au carnet (garage, mécanicien, date). Toutes les notifications de l'interface passent par vesper-interface.",
-  "notes_en": "New maintenance sheet: right-side panel (car stays visible), oil / tyres / brakes wear gauges, copyable VIN, body and engine state. Each service is stamped in the logbook (garage, mechanic, date). All UI notifications go through vesper-interface."
+  "version": "1.7.0",
+  "notes": "Réglage des freins au mécano (ox_target « Réglage des freins ») : de −30 % à +50 % par pas de 5 %, gardé par plaque et appliqué en dernier sur la force de freinage (moteur de remplacement, mod de freins et échauffement conservés). Noté au carnet du véhicule. L'échauffement des freins part désormais de la force du moteur de remplacement.",
+  "notes_en": "Brake tuning at the mechanic (ox_target « Brake tuning »): −30 % to +50 % in 5 % steps, saved per plate and applied last on the brake force (swapped engine, brake mod and brake heat kept). Logged in the vehicle logbook. Brake heat now starts from the swapped engine's brake force."
 }
