@@ -1,4 +1,4 @@
 {
-  "version": "2.11.3",
-  "notes": "Le bouton « Faim et soif » remplit de nouveau la faim et la soif avec l'esx_status récent (valeurs tenues par le serveur). / Hunger and thirst refill fixed for the recent esx_status."
+  "version": "2.12.0",
+  "notes": "Nouvel écran Scripts : les menus d'administration de vos autres scripts, détectés au démarrage (droit scripts.view). / New Scripts screen: your other scripts' admin menus, detected at startup (scripts.view permission)."
 }
