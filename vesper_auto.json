@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "notes": "Kit drift du mécano au carnet : posé = préparation non homologuée, retiré = sort des préparations (réglable dans la config).",
-  "notes_en": "Mechanic drift kit in the logbook: fitted = non-homologated tuning, removed = no longer counted (configurable)."
+  "version": "1.0.7",
+  "notes": "Application téléphone « Carnet » redessinée : photo du modèle, prestige en anneau, chiffres lisibles, en-tête sous la barre d'état, sans barre de défilement.",
+  "notes_en": "Redesigned \"Carnet\" phone app: model picture, prestige ring, readable figures, header below the status bar, no scrollbar."
 }
