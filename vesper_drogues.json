@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "Première version : créateur en jeu (récolte, labos shell/MLO, revendeurs), réglages complets en jeu, fabrication animée, décoration, niveaux, vente de rue, effets, blanchiment.",
-  "notes_en": "First release: in-game creator (farms, shell/MLO labs, dealers), full in-game settings, animated production, decoration, levels, street selling, effects, money laundering."
+  "version": "1.0.1",
+  "notes": "Plus rapide : un changement de labo n'est plus renvoyé à tout le serveur, icônes et portes refaites seulement si besoin, musique et intérieur allégés. Administration réservée aux groupes du fichier de config.",
+  "notes_en": "Faster: a lab change is no longer resent to the whole server, blips and doors rebuilt only when needed, lighter music and interior loops. Administration limited to the groups set in the config."
 }
