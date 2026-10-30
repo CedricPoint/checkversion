@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Nos propres tables : les tables qs_shops* sont renommées en vesper_boutiques* au premier démarrage (rien de perdu), qs_shops_finance (vide) supprimée. Plus aucune trace de Quasar en base.",
-  "notes_en": "Own tables: qs_shops* tables are renamed to vesper_boutiques* on first start (nothing lost), empty qs_shops_finance dropped."
+  "version": "1.2.0",
+  "notes": "Créateur réservé aux fondateurs et superadmins (plus aux admins). Plus rapide : la boucle par image ne tourne que près d une boutique, les vendeurs et blips ne sont reposés que s ils changent, rôles des employés et chiffres de gestion gardés en mémoire. Corrige l erreur quand un non-admin tapait /shopcreator.",
+  "notes_en": "Creator restricted to founders and superadmins. Faster: per-frame loop only near a shop, shopkeepers and blips only rebuilt when changed, employee roles and management stats cached. Fixes the error when a non-admin typed /shopcreator."
 }
