@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
-  "notes": "Vêtements réservés de vesper-couture (staff, métiers) : cachés en boutique et refusés en caisse pour les autres joueurs.",
-  "notes_en": "Restricted vesper-couture items (staff, jobs): hidden in shops and refused at checkout for other players."
+  "version": "1.2.4",
+  "notes": "Les vêtements ajoutés (packs, atelier) sont enregistrés par collection : ils restent les bons même si l'ordre des packs change.",
+  "notes_en": "Add-on clothes (packs, workshop) are saved by collection: they stay correct even if the pack order changes."
 }
