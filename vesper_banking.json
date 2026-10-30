@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "notes": "Nettoyage interne, rien de visible. (1.2.0 : inventaire détecté tout seul — vesper-inventory, qs-inventory ou ox_inventory —, nom de la banque et préfixe des comptes réglables.)",
-  "notes_en": "Internal cleanup, no visible change. (1.2.0: inventory auto-detected — vesper-inventory, qs-inventory or ox_inventory —, configurable bank brand and account prefix.)"
+  "version": "1.2.2",
+  "notes": "Plus rapide : statistiques de la Bourse en 4 requêtes pour tout le marché, scores des clients d'une agence calculés d'un coup, l'appli LS Bourse ne relit plus les cours appli fermée, boucles du jeu au repos loin des banques et en véhicule.",
+  "notes_en": "Faster: stock exchange statistics in 4 queries for the whole market, a branch's customer scores computed at once, the LS Bourse app no longer refreshes while closed, game loops idle away from banks and in vehicles."
 }
