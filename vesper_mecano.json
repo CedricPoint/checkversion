@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "notes": "33 caméléons exclusifs de plus (256 teintes), aperçu en couleur de chaque teinte, effet caméléon complet, nacré et jantes par familles. Crash corrigé : la fumée des pneus n'est plus jamais touchée dans l'atelier (posée une fois, voiture libérée).",
-  "notes_en": "33 more exclusive chameleon paints (256 colours), colour preview for every shade, full chameleon effect, pearl and wheels by families. Crash fixed: tyre smoke is never touched in the tuneshop (applied once, vehicle released)."
+  "version": "1.5.1",
+  "notes": "Palan : ne heurte plus la voiture (capot intact), la palette ne se recharge plus en le prenant, moteur d'origine visible au stock et rangeable depuis le palan. Tests d'adresse (QTE) retirés des réparations et des poses. Notifications aux couleurs de l'interface.",
+  "notes_en": "Engine hoist: no longer hits the car (hood intact), the pallet no longer reloads when taking it, original engine shown in stock and storable from the hoist. Skill checks (QTE) removed from repairs and installs. Notifications use the interface colours."
 }
