@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "notes": "Réglage d'effet (vfx) invalide recopié d'un vêtement du jeu corrigé (il faisait planter le jeu à la création du personnage) ; fichier « créature » fabriqué seulement s'il sert. Rappel : les vêtements addon exigent une clé Cfx.re Argentum ou plus.",
-  "notes_en": "Invalid vfx value copied from a game garment fixed (it crashed the game at character creation); creature metadata only built when needed. Reminder: addon clothing requires a Cfx.re Argentum key or higher."
+  "version": "1.1.0",
+  "notes": "Créations réservées : au staff à partir d'un grade, ou à des métiers (police, ambulance…) — vesper-apparence 1.2.3 ne les montre et ne les vend qu'aux ayants droit. Commande console couture-acces.",
+  "notes_en": "Restricted designs: staff from a given rank, or jobs (police, ambulance…) — vesper-apparence 1.2.3 only shows and sells them to allowed players. Console command couture-acces."
 }
