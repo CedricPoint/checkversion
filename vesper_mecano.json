@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
-  "notes": "Atelier : l'aperçu n'applique plus que ce qui change et ne touche plus à la fumée des pneus (crash du jeu). Notifications aux bonnes couleurs et barres de progression par l'interface du serveur.",
-  "notes_en": "Tuneshop: the preview only applies what changed and no longer touches tyre smoke (game crash). Notifications with proper colours and progress bars through the server interface."
+  "version": "1.5.0",
+  "notes": "33 caméléons exclusifs de plus (256 teintes), aperçu en couleur de chaque teinte, effet caméléon complet, nacré et jantes par familles. Crash corrigé : la fumée des pneus n'est plus jamais touchée dans l'atelier (posée une fois, voiture libérée).",
+  "notes_en": "33 more exclusive chameleon paints (256 colours), colour preview for every shade, full chameleon effect, pearl and wheels by families. Crash fixed: tyre smoke is never touched in the tuneshop (applied once, vehicle released)."
 }
