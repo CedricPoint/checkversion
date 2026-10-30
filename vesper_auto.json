@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "notes": "Plus de doublon entre l'historique repris de l'atelier et ce que le mécano écrit en direct. Tampon du garage à chaque entretien (atelier, date et heure, mécanicien), numéro de série copiable, notifications par l'interface du serveur, options de ciblage masquées sans droit, intervalles d'entretien à l'échelle de GTA (vidange 400 km, freins 800 km, pneus 1 200 km).",
-  "notes_en": "No more duplicates between the imported shop history and what the mechanic writes live. Garage stamp on every service (shop, date and time, mechanic), copyable VIN, notifications through the server interface, target options hidden without rights, GTA-scale service intervals (oil 400 km, brakes 800 km, tyres 1,200 km)."
+  "version": "1.0.4",
+  "notes": "Fiche d'origine en tête du carnet (sortie de concession, couleurs et pièces d'usine, image) et ce qui a changé depuis ; prestige centré sur l'entretien avec le détail du calcul ; historique complet du casier (en cours, levé, historique), lisible par la police.",
+  "notes_en": "Origin sheet at the top of the logbook (dealership, factory colours and parts, picture) and what changed since; prestige driven by maintenance with a breakdown; full record history (open, lifted, past), readable by the police."
 }
