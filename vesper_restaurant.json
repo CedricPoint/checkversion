@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "notes": "Stations burger et pizza : le clic de la souris attrape enfin les ingrédients (le curseur affiché envoyait un autre contrôle). Repère sous le curseur, zone de prise agrandie.",
-  "notes_en": "Burger and pizza stations: mouse clicks now pick ingredients (the visible cursor sent a different control). Marker under the cursor, larger pickup area."
+  "version": "1.1.2",
+  "notes": "Stations burger et pizza : la position de la souris sur le comptoir est calculée autrement (la méthode précédente ne répondait pas en jeu), avec un calcul de secours.",
+  "notes_en": "Burger and pizza stations: mouse position on the counter computed differently (the previous method returned nothing in game), with a fallback."
 }
