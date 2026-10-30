@@ -1,5 +1,5 @@
 {
-  "version": "1.5.4",
-  "notes": "Carnet du véhicule (vesper-auto) : chaque réparation, préparation (moteur, freins, turbo, nitro, échange de moteur, ligne d'échappement, vitres noires) et passage au banc y est noté. Sans effet si vesper-auto n'est pas installé.",
-  "notes_en": "Vehicle logbook (vesper-auto): every repair, upgrade (engine, brakes, turbo, nitro, engine swap, exhaust line, black windows) and dyno run is recorded. No effect when vesper-auto is not installed."
+  "version": "1.6.0",
+  "notes": "Entretien au garage : points d'entretien et écrans à placer dans le créateur. La voiture garée sur le point, le mécanicien en service voit le diagnostic du carnet (km, cote, usure huile / pneus / freins) et fait la vidange, les pneus ou les freins, notés au carnet. Les écrans affichent l'état de la voiture en direct.",
+  "notes_en": "Garage maintenance: maintenance spots and screens placed in the creator. With the car on the spot, the on-duty mechanic sees the logbook diagnosis (mileage, value, oil / tyres / brakes wear) and does the oil change, tyres or brakes, recorded in the logbook. Screens show the car's state live."
 }
