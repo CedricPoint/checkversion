@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "Vêtements publiés invisibles en jeu (torse nu) : textures calquées sur celles du jeu (Usage, drapeaux, mips jusqu'à 4×4). Essayage d'un haut avec ses bras. Page plus solide pendant un chargement.",
-  "notes_en": "Published clothing invisible in game (bare torso): textures now match the game's own (usage, flags, mips down to 4×4). Trying on a top sets its arms. Page sturdier while loading."
+  "version": "1.0.2",
+  "notes": "Vêtements publiés enfin visibles : le vêtement est renommé à l'intérieur de son fichier .ydd (le jeu le cherche par son nom ; avant, torse nu).",
+  "notes_en": "Published clothing now visible: the drawable is renamed inside its .ydd file (the game looks it up by name; previously a bare torso)."
 }
