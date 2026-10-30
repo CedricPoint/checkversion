@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "notes": "Compatible sv_stateBagStrictMode : les zombies et les drapeaux des joueurs sont marqués par le serveur (avant, la horde pouvait réapparaître sans fin et les éliminations ne comptaient pas).",
-  "notes_en": "sv_stateBagStrictMode compatible: zombies and player flags are now set by the server (previously the horde could respawn endlessly and kills were not counted)."
+  "version": "1.0.3",
+  "notes": "Créateur réservé aux fondateurs et superadmins (plus d'ACE, plus d'accès réglable en jeu). Moins de travail par seconde : horde parcourue une seule fois, classement envoyé aux seuls participants, boucles client en sommeil quand rien à faire.",
+  "notes_en": "Creator restricted to founders and superadmins (no ACE, access no longer editable in game). Lighter: single pass over the horde, scoreboard sent to participants only, client loops sleep when idle."
 }
