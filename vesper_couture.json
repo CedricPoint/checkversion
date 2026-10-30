@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "notes": "Vêtement chargé mais jamais dessiné : le propMask recopié du vêtement de base est remplacé par celui des vêtements addon (1, ou 17 avec peau), comme DurtyClothTool et grzyClothTool.",
-  "notes_en": "Item loaded but never drawn: the propMask copied from the base garment is replaced by the addon value (1, or 17 with skin), like DurtyClothTool and grzyClothTool."
+  "version": "1.0.5",
+  "notes": "Réglage d'effet (vfx) invalide recopié d'un vêtement du jeu corrigé (il faisait planter le jeu à la création du personnage) ; fichier « créature » fabriqué seulement s'il sert. Rappel : les vêtements addon exigent une clé Cfx.re Argentum ou plus.",
+  "notes_en": "Invalid vfx value copied from a game garment fixed (it crashed the game at character creation); creature metadata only built when needed. Reminder: addon clothing requires a Cfx.re Argentum key or higher."
 }
