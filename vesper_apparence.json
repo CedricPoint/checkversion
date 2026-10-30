@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "notes": "Correctif : les visages de l'hérédité, les palettes de couleurs et les yeux s'affichaient écrasés en jeu. Français et anglais (Config.Langue). Tatouages des tenues de CedricP_Creator repris. Config, langues et données laissées en clair (escrow_ignore).",
-  "notes_en": "Fix: heritage faces, color palettes and eye colors were squashed in game. French and English (Config.Langue). CedricP_Creator outfit tattoos supported. Config, languages and data left open (escrow_ignore)."
+  "version": "1.2.2",
+  "notes": "Administration réservée aux groupes fondateur et superadmin (plus d'accès par l'ACE group.admin). Plus léger en jeu : la touche [E] des boutiques ne relit plus le joueur à chaque image ; catalogue vérifié en mémoire à la connexion.",
+  "notes_en": "Administration restricted to the fondateur and superadmin groups (no more group.admin ACE access). Lighter in game: the shop [E] key no longer re-reads player data every frame; catalogue checked in memory on connect."
 }
