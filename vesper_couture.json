@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "notes": "Publication en arrière-plan ; images déjà téléchargées réutilisables + dossier web/images ; vignettes de boutique automatiques (une par coloris) ; tenues réservées par grade de métier ; export d'un pack autonome (couture-exporter) ; dégradés qui suivent le vêtement ; nouveaux visuels ; corrections de placement des textes et logos.",
-  "notes_en": "Background publishing; reusable downloaded images + web/images folder; automatic shop thumbnails (one per colourway); outfits restricted by job grade; standalone pack export (couture-exporter); garment-following gradients; new visuals; text and logo placement fixes."
+  "version": "1.3.1",
+  "notes": "15 polices d'écriture dans l'atelier ; « Essayer » garde la tenue sur le personnage ; tenue remise après un redémarrage des vêtements ; nom et image des créations dans l'inventaire.",
+  "notes_en": "15 fonts in the workshop; \"Try on\" keeps the outfit on the character; outfit restored after a clothing restart; creation name and picture in the inventory."
 }
