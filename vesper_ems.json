@@ -1,4 +1,4 @@
 {
-  "version": "1.5.0",
-  "notes": "Compatible avec les ressources qui remplacent Quasar par provide (vesper-inventory, vesper-interface, vesper-cles) : boutique, objets, notifications et clés passent par la première ressource démarrée de Config.Ponts, Quasar en repli, ESX sans inventaire. Commande console emsponts pour vérifier."
+  "version": "1.5.1",
+  "notes": "Administration du script réservée aux groupes de Config.Administration (fondateur et superadmin par défaut) ou à la permission ACE vesper.ems.admin ; la permission « command » ne suffit plus. Boucle des marqueurs plus légère près des hôpitaux."
 }
