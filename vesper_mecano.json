@@ -1,5 +1,5 @@
 {
-  "version": "1.5.3",
-  "notes": "Plus léger : les points [E] ne parcourent que ceux à proximité, la boucle de conduite ne réécrit plus les freins à chaque image. Administration (créateur, /fix) réservée à fondateur et superadmin.",
-  "notes_en": "Lighter: [E] points only scan nearby ones, the driving loop no longer rewrites brakes every frame. Administration (creator, /fix) restricted to founder and superadmin groups."
+  "version": "1.5.4",
+  "notes": "Carnet du véhicule (vesper-auto) : chaque réparation, préparation (moteur, freins, turbo, nitro, échange de moteur, ligne d'échappement, vitres noires) et passage au banc y est noté. Sans effet si vesper-auto n'est pas installé.",
+  "notes_en": "Vehicle logbook (vesper-auto): every repair, upgrade (engine, brakes, turbo, nitro, engine swap, exhaust line, black windows) and dyno run is recorded. No effect when vesper-auto is not installed."
 }
