@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "notes": "Application téléphone « Carnet » redessinée : photo du modèle, prestige en anneau, chiffres lisibles, en-tête sous la barre d'état, sans barre de défilement.",
-  "notes_en": "Redesigned \"Carnet\" phone app: model picture, prestige ring, readable figures, header below the status bar, no scrollbar."
+  "version": "1.1.0",
+  "notes": "Pochette de carnets : un seul objet par joueur, qui s'ouvre sur toutes ses voitures (nom, plaque, photo, prestige). Les anciens carnets y sont rangés. Config.Objet.mode = 'carnets' garde un objet par voiture, avec le nom du véhicule.",
+  "notes_en": "Logbook pouch: a single item per player that opens on all their vehicles (name, plate, picture, prestige). Old logbooks are moved into it. Config.Objet.mode = carnets keeps one item per vehicle, showing the vehicle name."
 }
