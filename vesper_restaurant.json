@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "notes": "Première version : créateur de restaurants en jeu (zone, kiosques, terminaux, frigos, écrans de cuisine, décor), kiosques de commande, cuisines burger / pizza / frites / boissons / recettes en étapes, terminal de caisse avec livraison au client, approvisionnement livré, menu patron (employés, rangs, finances, recettes, réglages). Reprend les tables de qs-restaurant-creator.",
+  "notes_en": "First release: in-game restaurant creator (zone, kiosks, POS terminals, fridges, kitchen screens, decoration), ordering kiosks, burger / pizza / fries / drinks / step-by-step recipe kitchens, POS terminal with customer delivery, delivered supply orders, boss menu (workers, ranks, finances, recipes, settings). Takes over qs-restaurant-creator tables."
+}
