@@ -1,4 +1,4 @@
 {
-  "version": "2.11.1",
-  "notes": "Zone du jail dessinée en jeu en caméra libre (coins, hauteur). Notifications en jeu par l'interface de votre serveur : vesper-interface, ox_lib, ESX ou QBCore (Config.Notify.provider). / Jail area drawn in game with a free camera; in-game notifications through your server UI (Config.Notify.provider)."
+  "version": "2.11.2",
+  "notes": "Correctifs de sécurité (mise à jour recommandée) : groupes ESX sans escalade hors rang le plus haut, éditeur de code réservé au rang le plus haut (Config.Editor.editTopOnly), console qui respecte les ressources protégées et la hiérarchie, ban d'un supérieur non levable. / Security fixes, update recommended."
 }
