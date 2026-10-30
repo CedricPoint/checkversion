@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "notes": "Administration de l'immobilier : le groupe goat (même rang que fondateur) y a accès, avec les fondateurs et les superadmins. Le groupe admin n'y a toujours pas accès.",
-  "notes_en": "Housing administration: the goat group (same rank as founder) now has access, alongside founders and superadmins. The admin group still has no access."
+  "version": "1.3.0",
+  "notes": "Renommer une maison en jeu : bouton « Renommer » dans sa fiche (/immo, administration). Coffre, meubles, clés, garage, factures, loyers et annonces suivent ; un appartement renomme tout son immeuble. La liste du créateur affiche l'adresse sous l'identifiant. Correctif important : une fin de location et la modification d'une maison sans garage n'étaient pas enregistrées en base (perdues au redémarrage).",
+  "notes_en": "Rename a house in game: \"Rename\" button in its sheet (/immo, administration). Stash, furniture, keys, garage, bills, rent and listings follow; an apartment renames its whole building. The creator list shows the address under the identifier. Important fix: ending a rental and editing a house without a garage were not saved to the database (lost on restart)."
 }
