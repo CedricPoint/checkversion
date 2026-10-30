@@ -1,4 +1,5 @@
 {
-  "version": "1.7.1",
-  "notes": "Paquet allégé : les outils de test internes ne sont plus livrés. Aucun changement de fonctionnement ; les diagnostics /lspddiag et lspdqui restent disponibles. (1.7.0 : prise en charge native de vesper-inventory, armurerie en vraie boutique de l'inventaire, retraits journalisés.)"
+  "version": "1.7.2",
+  "notes": "Fichier du véhicule sur la tablette : recherche par plaque ou numéro de série (VIN). Avec vesper-auto : carnet du véhicule (VIN, kilométrage, cote, prestige), historique du casier du véhicule et alerte plaque maquillée.",
+  "notes_en": "Vehicle file on the tablet: search by plate or VIN. With vesper-auto: vehicle logbook (VIN, mileage, value, prestige), vehicle record history and a fake-plate alert."
 }
