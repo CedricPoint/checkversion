@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "Carnet jamais perdu quand l'inventaire est plein (prévenu, nouvel essai chaque minute, commande /carnets) ; l'historique de l'atelier mécano repris dans les carnets à ses vraies dates.",
-  "notes_en": "Logbook never lost when the inventory is full (warned, retried every minute, /carnets command); the mechanic shop history imported into logbooks at its real dates."
+  "version": "1.0.2",
+  "notes": "Tampon du garage à chaque entretien (atelier, date et heure, mécanicien), numéro de série copiable, notifications par l'interface du serveur, options de ciblage masquées sans droit, intervalles d'entretien à l'échelle de GTA (vidange 400 km, freins 800 km, pneus 1 200 km).",
+  "notes_en": "Garage stamp on every service (shop, date and time, mechanic), copyable VIN, notifications through the server interface, target options hidden without rights, GTA-scale service intervals (oil 400 km, brakes 800 km, tyres 1,200 km)."
 }
