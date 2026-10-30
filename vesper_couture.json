@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
-  "notes": "Éditeur : images et textes se règlent à la souris — poignées plus grandes (aussi avec l'outil Texte), tirer un coin = taille, le rond = rotation, molette sur l'objet = taille, Maj + molette = rotation. Zone de texte refaite (plus grande, compteur).",
-  "notes_en": "Editor: images and texts can be adjusted with the mouse — bigger handles (also with the Text tool), drag a corner = size, the circle = rotation, mouse wheel over the object = size, Shift + wheel = rotation. Text box redone (bigger, character counter)."
+  "version": "1.4.2",
+  "notes": "Première version en vente : catalogue livré de 663 créations (ressource vesper-couture-catalogue, installée toute seule au premier démarrage), couturier Windows + Linux, documentation d'installation et des accès. Correctifs : construction d'une collection pleine, cartes « Toutes les créations », visuels sombres lisibles, numéro des créations affiché.",
+  "notes_en": "First release on sale: 663-creation catalogue delivered (vesper-couture-catalogue resource, installed automatically on first start), couturier for Windows + Linux, install and access documentation. Fixes: building a full collection, \"All creations\" cards, dark visuals readable, creation numbers shown."
 }
