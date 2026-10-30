@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "Coques : un paquet de coques installé est détecté tout seul (nom contenant « shell » ou `vesper_coque` dans son fxmanifest), même à chaud. Nouvel onglet Coques dans /immo : nom, catégorie, coffre, visibilité et porte de chaque coque. La porte est retenue par coque et placée d'elle-même dans les nouvelles maisons. Les coques non installées ne sont plus proposées.",
-  "notes_en": "Shells: an installed shell pack is detected automatically (name containing \"shell\" or `vesper_coque` in its fxmanifest), even while running. New Shells tab in /immo: name, category, storage, visibility and door of each shell. The door is remembered per shell and placed automatically in new houses. Shells that are not installed are no longer offered."
+  "version": "1.2.1",
+  "notes": "Sécurité : l'administration de l'immobilier (/immo, commandes /immo_*, onglets Catalogue, Coques et Admin) est réservée aux fondateurs et superadmins ; le groupe admin et les aces command.* n'y donnent plus accès. Performances : près d'une porte, le script ne parcourt plus toutes les maisons à chaque image ; à l'intérieur, la boucle se repose quand il n'y a rien à faire.",
+  "notes_en": "Security: housing administration (/immo, /immo_* commands, Catalogue, Shells and Admin tabs) is restricted to founders and superadmins; the admin group and command.* aces no longer grant access. Performance: near a door the script no longer scans every house each frame; inside, the loop rests when there is nothing to do."
 }
