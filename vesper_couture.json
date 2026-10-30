@@ -1,5 +1,5 @@
 {
-  "version": "1.3.2",
-  "notes": "Correctif important : l'atelier ne crée plus de collection au-delà de la limite du jeu (sinon le personnage ne se crée plus : erreur CREATE_PED au spawn).",
-  "notes_en": "Important fix: the workshop no longer creates collections beyond the game limit (otherwise characters fail to spawn: CREATE_PED error)."
+  "version": "1.4.0",
+  "notes": "Série 10 : 40 créations « mode » (maillots, graffitis, blouson de club moto, vache, Mondrian, paisley, pied-de-poule, serpent, bûcheron…). Éditeur : 10 motifs et 12 visuels prêts à l'emploi de plus. couture-paquet / couture-installer : le catalogue de créations se reprend tel quel sur un autre serveur (automatique au premier démarrage). Correctif : dossiers parfois créés sans droit d'écriture.",
+  "notes_en": "Series 10: 40 fashion creations (jerseys, graffiti, biker club jacket, cow print, Mondrian, paisley, houndstooth, snakeskin, buffalo check…). Editor: 10 more patterns and 12 more ready-made visuals. couture-paquet / couture-installer: the whole creation catalogue can be carried over to another server (automatic on first start). Fix: folders sometimes created without write permission."
 }
