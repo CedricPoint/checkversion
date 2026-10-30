@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Créations réservées : au staff à partir d'un grade, ou à des métiers (police, ambulance…) — vesper-apparence 1.2.3 ne les montre et ne les vend qu'aux ayants droit. Commande console couture-acces.",
-  "notes_en": "Restricted designs: staff from a given rank, or jobs (police, ambulance…) — vesper-apparence 1.2.3 only shows and sells them to allowed players. Console command couture-acces."
+  "version": "1.1.1",
+  "notes": "Images : un lien de PAGE (imgur.com/…, imgur.com/gallery/…) fonctionne, l'image est retrouvée dans la page (og:image) ; imgur.com accepté par défaut.",
+  "notes_en": "Images: a PAGE link (imgur.com/…, imgur.com/gallery/…) works, the image is found in the page (og:image); imgur.com allowed by default."
 }
