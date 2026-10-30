@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "notes": "Le réglage des freins du mécano s'affiche dans le carnet (+/- en %) ; remis à 0 %, il ne compte plus comme une préparation.",
-  "notes_en": "The mechanic brake setting shows in the logbook (+/- %); back to 0 % it no longer counts as tuning."
+  "version": "1.0.6",
+  "notes": "Kit drift du mécano au carnet : posé = préparation non homologuée, retiré = sort des préparations (réglable dans la config).",
+  "notes_en": "Mechanic drift kit in the logbook: fitted = non-homologated tuning, removed = no longer counted (configurable)."
 }
