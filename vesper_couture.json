@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "notes": "Le fichier de métadonnées « créature » de chaque collection est toujours fabriqué (comme toutes les collections du jeu) ; commande /couturediag pour diagnostiquer un vêtement invisible.",
-  "notes_en": "Each collection's creature metadata file is always built (like every game collection); /couturediag command to diagnose an invisible item."
+  "version": "1.0.4",
+  "notes": "Vêtement chargé mais jamais dessiné : le propMask recopié du vêtement de base est remplacé par celui des vêtements addon (1, ou 17 avec peau), comme DurtyClothTool et grzyClothTool.",
+  "notes_en": "Item loaded but never drawn: the propMask copied from the base garment is replaced by the addon value (1, or 17 with skin), like DurtyClothTool and grzyClothTool."
 }
