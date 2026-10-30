@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "Première version : consommation réaliste, écran de pompe, tuyau, bornes électriques, jerricans, stocks des stations, marché des prix, créateur /fuelcreator, métier de livreur.",
-  "notes_en": "First release: realistic consumption, pump screen, hose, EV chargers, jerrycans, station stock, market prices, /fuelcreator, fuel delivery job."
+  "version": "1.0.1",
+  "notes": "Le niveau d'essence passe par le serveur (VESPER refuse les états écrits par les joueurs), recherche de pompe plus légère, /fuelmarket ouvert au groupe fondateur, administration réservée à fondateur et superadmin.",
+  "notes_en": "Fuel level now written by the server (strict state bags), lighter pump lookup, /fuelmarket open to the founder group, admin limited to founder and superadmin."
 }
