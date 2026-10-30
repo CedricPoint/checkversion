@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "notes": "Atelier : visuels prêts à poser (insignes LSPD/SASP, écussons, étoile de vie, bande réfléchissante, imprimés). 1.2.0 : 143 modèles, nouveaux motifs, collections suivantes au-delà de 255 textures.",
-  "notes_en": "Workshop: ready-made visuals (LSPD/SASP badges, patches, star of life, reflective stripe, prints). 1.2.0: 143 templates, new patterns, next collections beyond 255 textures."
+  "version": "1.3.0",
+  "notes": "Publication en arrière-plan ; images déjà téléchargées réutilisables + dossier web/images ; vignettes de boutique automatiques (une par coloris) ; tenues réservées par grade de métier ; export d'un pack autonome (couture-exporter) ; dégradés qui suivent le vêtement ; nouveaux visuels ; corrections de placement des textes et logos.",
+  "notes_en": "Background publishing; reusable downloaded images + web/images folder; automatic shop thumbnails (one per colourway); outfits restricted by job grade; standalone pack export (couture-exporter); garment-following gradients; new visuals; text and logo placement fixes."
 }
