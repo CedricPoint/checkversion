@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Les cuisines prennent les ingrédients dans le sac PUIS dans les frigos du restaurant. Quatre garnitures de pizza en plus (basilic, jambon, saucisse, emmental) sur un second plateau. Chaque recette de pizza peut donner son propre objet ; huit pizzas de la carte (Margherita, Regina, Diavola…) créées dans l'inventaire avec leur image. Console : vresto_carte (carte de départ) et vresto_remplir (remplir les frigos).",
-  "notes_en": "Kitchens now use ingredients from the bag THEN from the restaurant fridges. Four extra pizza toppings (basil, ham, sausage, emmental) on a second tray. Each pizza recipe can give its own item; eight menu pizzas (Margherita, Regina, Diavola…) created in the inventory with images. Console: vresto_carte (starter menu) and vresto_remplir (fill fridges)."
+  "version": "1.1.1",
+  "notes": "Stations burger et pizza : le clic de la souris attrape enfin les ingrédients (le curseur affiché envoyait un autre contrôle). Repère sous le curseur, zone de prise agrandie.",
+  "notes_en": "Burger and pizza stations: mouse clicks now pick ingredients (the visible cursor sent a different control). Marker under the cursor, larger pickup area."
 }
