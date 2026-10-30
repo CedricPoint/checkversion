@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
-  "notes": "Kit drift : le mécano le pose sur un véhicule (ox_target « Kit drift »), gardé par plaque et noté au carnet ; le conducteur active ou coupe le mode drift avec Maj gauche (pneus drift du jeu et braquage plus grand), remis à zéro quand il descend. Export DriftActif() pour les autres ressources.",
-  "notes_en": "Drift kit: the mechanic fits it on a vehicle (ox_target « Drift kit »), saved per plate and logged in the logbook; the driver toggles drift mode with Left Shift (game drift tyres and wider steering), reset when leaving the seat. DriftActif() export for other resources."
+  "version": "1.9.0",
+  "notes": "Nouveau panneau « Préparation » (ox_target) : réglage du freinage, kit drift et kit nitro au même endroit, posés à côté du véhicule. Plus aucune facture automatique (freins, drift, échappement, moteur) : les pièces sont prises dans la caisse du garage et le mécano facture en RP. Chaque pose et chaque dépense va à l'historique et au livre de comptes du patron, avec « véhicule perso » quand le mécano travaille sur le sien.",
+  "notes_en": "New « Preparation » panel (ox_target): brake tuning, drift kit and nitro kit in one place, fitted from beside the vehicle. No more automatic invoices (brakes, drift, exhaust, engine): parts are paid from the garage funds and the mechanic bills in RP. Every install and expense goes to the boss's history and ledger, flagged « personal vehicle » when the mechanic works on their own car."
 }
