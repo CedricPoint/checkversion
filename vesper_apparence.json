@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "notes": "Administration réservée aux groupes fondateur et superadmin (plus d'accès par l'ACE group.admin). Plus léger en jeu : la touche [E] des boutiques ne relit plus le joueur à chaque image ; catalogue vérifié en mémoire à la connexion.",
-  "notes_en": "Administration restricted to the fondateur and superadmin groups (no more group.admin ACE access). Lighter in game: the shop [E] key no longer re-reads player data every frame; catalogue checked in memory on connect."
+  "version": "1.2.3",
+  "notes": "Vêtements réservés de vesper-couture (staff, métiers) : cachés en boutique et refusés en caisse pour les autres joueurs.",
+  "notes_en": "Restricted vesper-couture items (staff, jobs): hidden in shops and refused at checkout for other players."
 }
