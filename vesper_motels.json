@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Autonome : ESX + ox_lib + oxmysql suffisent. Inventaire détecté (vesper-inventory, ox_inventory ou ESX seul), tenues détectées, plus aucune trace de Quasar. Testé sur un serveur vierge.",
-  "notes_en": "Standalone: ESX + ox_lib + oxmysql are enough. Inventory auto-detected (vesper-inventory, ox_inventory or plain ESX), wardrobe auto-detected, no Quasar left. Tested on a blank server."
+  "version": "1.1.1",
+  "notes": "Créateur réservé au fondateur et au superadmin. Boucles de proximité, d'intérieur et de radio allégées (rien ne tourne à chaque image loin des points).",
+  "notes_en": "Creator restricted to founder and superadmin. Lighter proximity, interior and radio loops (nothing runs every frame away from points)."
 }
