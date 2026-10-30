@@ -1,4 +1,4 @@
 {
-  "version": "2.11.2",
-  "notes": "Correctifs de sécurité (mise à jour recommandée) : groupes ESX sans escalade hors rang le plus haut, éditeur de code réservé au rang le plus haut (Config.Editor.editTopOnly), console qui respecte les ressources protégées et la hiérarchie, ban d'un supérieur non levable. / Security fixes, update recommended."
+  "version": "2.11.3",
+  "notes": "Le bouton « Faim et soif » remplit de nouveau la faim et la soif avec l'esx_status récent (valeurs tenues par le serveur). / Hunger and thirst refill fixed for the recent esx_status."
 }
