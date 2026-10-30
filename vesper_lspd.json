@@ -1,5 +1,5 @@
 {
-  "version": "1.7.2",
-  "notes": "Fichier du véhicule sur la tablette : recherche par plaque ou numéro de série (VIN). Avec vesper-auto : carnet du véhicule (VIN, kilométrage, cote, prestige), historique du casier du véhicule et alerte plaque maquillée.",
-  "notes_en": "Vehicle file on the tablet: search by plate or VIN. With vesper-auto: vehicle logbook (VIN, mileage, value, prestige), vehicle record history and a fake-plate alert."
+  "version": "1.7.3",
+  "notes": "Fouille seulement si la personne est menottée ou a les mains levées (lu dans le jeu du suspect, Config.Suspect.fouilleMainsLevees). Les menottes sont posées par le serveur : compatible sv_stateBagStrictMode, un menotté ne peut plus ouvrir son sac.",
+  "notes_en": "Search only when the person is cuffed or has hands up (read from the suspect's own game, Config.Suspect.fouilleMainsLevees). Cuffs are now set by the server: works with sv_stateBagStrictMode, a cuffed player can no longer open their inventory."
 }
