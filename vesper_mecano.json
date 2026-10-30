@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
-  "notes": "Palan : ne heurte plus la voiture (capot intact), la palette ne se recharge plus en le prenant, moteur d'origine visible au stock et rangeable depuis le palan. Tests d'adresse (QTE) retirés des réparations et des poses. Notifications aux couleurs de l'interface.",
-  "notes_en": "Engine hoist: no longer hits the car (hood intact), the pallet no longer reloads when taking it, original engine shown in stock and storable from the hoist. Skill checks (QTE) removed from repairs and installs. Notifications use the interface colours."
+  "version": "1.5.2",
+  "notes": "Palette claire : on voit le moteur posé dessus, on le range au stock ou on en pose un autre (échange en un clic), le menu se rouvre après chaque action. Le palan pose son moteur sur la palette (ou le range au stock si elle est prise) en le disant.",
+  "notes_en": "Clearer pallet: see which engine is on it, store it or put another one (one-click swap), the menu reopens after each action. The hoist puts its engine on the pallet (or stores it if taken) and says so."
 }
