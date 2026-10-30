@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "notes": "Première version : numéro de série gravé sur le châssis, carnet de chaque véhicule (propriétaires, kilométrage, accidents, entretien, réparations, préparations, banc, courses, casier, photos), cote et prestige, objet Carnet, appli lb-phone Carnet, contrôle de police, stations de lavage. Chaque partie s'active ou se coupe.",
+  "notes_en": "First release: VIN on the chassis, a logbook per vehicle (owners, mileage, crashes, maintenance, repairs, tuning, dyno, races, record, photos), value and prestige, Logbook item, lb-phone app, police check, car washes. Every part can be switched on or off."
+}
