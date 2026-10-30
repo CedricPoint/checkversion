@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
-  "notes": "Entretien au garage : points d'entretien et écrans à placer dans le créateur. La voiture garée sur le point, le mécanicien en service voit le diagnostic du carnet (km, cote, usure huile / pneus / freins) et fait la vidange, les pneus ou les freins, notés au carnet. Les écrans affichent l'état de la voiture en direct.",
-  "notes_en": "Garage maintenance: maintenance spots and screens placed in the creator. With the car on the spot, the on-duty mechanic sees the logbook diagnosis (mileage, value, oil / tyres / brakes wear) and does the oil change, tyres or brakes, recorded in the logbook. Screens show the car's state live."
+  "version": "1.6.1",
+  "notes": "Nouvelle fiche d'entretien : panneau à droite (la voiture reste visible), jauges d'usure vidange / pneus / freins, n° de série copiable, état carrosserie et moteur. Chaque entretien est tamponné au carnet (garage, mécanicien, date). Toutes les notifications de l'interface passent par vesper-interface.",
+  "notes_en": "New maintenance sheet: right-side panel (car stays visible), oil / tyres / brakes wear gauges, copyable VIN, body and engine state. Each service is stamped in the logbook (garage, mechanic, date). All UI notifications go through vesper-interface."
 }
