@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "notes": "Images : un lien de PAGE (imgur.com/…, imgur.com/gallery/…) fonctionne, l'image est retrouvée dans la page (og:image) ; imgur.com accepté par défaut.",
-  "notes_en": "Images: a PAGE link (imgur.com/…, imgur.com/gallery/…) works, the image is found in the page (og:image); imgur.com allowed by default."
+  "version": "1.2.0",
+  "notes": "143 modèles de vêtements (robes, jupes, talons, sweats à capuche, manteaux, shorts, chapeaux, uniformes, cuir…), motifs fleurs/cœurs/étoiles/zèbre/palmiers/tie-dye, collections suivantes ouvertes automatiquement au-delà de 255 textures.",
+  "notes_en": "143 clothing templates (dresses, skirts, heels, hoodies, coats, shorts, hats, uniforms, leather…), flowers/hearts/stars/zebra/palm/tie-dye patterns, next collections opened automatically beyond 255 textures."
 }
