@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "notes": "Banque : la salle forte reste ouverte 2 min après la fin (réglable) ; vraie perceuse en main avec son bruit, perçage plus court ; l'arme en main est rangée pendant chaque geste puis rendue.",
-  "notes_en": "Bank: the vault stays open 2 min after the end (configurable); real drill in hand with its sound, shorter drilling; the weapon in hand is holstered during each action then given back."
+  "version": "1.1.2",
+  "notes": "Missions à véhicule : plus de « véhicule détruit » au lancement ; livraison de drogue : d'abord la camionnette, puis les clients ; fourgon : liasses de billets visibles dans la soute, sac rempli puis porté sur le dos.",
+  "notes_en": "Vehicle missions: no more 'vehicle destroyed' at start; drug delivery: van first, then the customers; armored truck: visible cash stacks in the hold, bag filled then worn on the back."
 }
