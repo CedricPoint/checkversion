@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Danseurs PNJ visibles et dansants au placement, poses en serie (danseurs, enceintes, decor), plusieurs points de son, ecrans du bar (carte, nom, logo), 18 boissons en plus, historique des ventes, primes, prix modifiables, tickets d'entree de soiree.",
-  "notes_en": "Live NPC dancer preview, batch placement, multiple sound points, bar menu screens, 18 more drinks, sales history, bonuses, quick price edit, party entry tickets."
+  "version": "1.2.0",
+  "notes": "Preparations des boissons : vraies scenes de barman du jeu avec leurs objets (cocktail au shaker, service a la bouteille, tequila, biere et softs, champagne), un geste par verre.",
+  "notes_en": "Drink preparation now plays the game's real bartender scenes with their props (shaker cocktail, bottle pour, tequila, beer and softs, champagne), one move per glass."
 }
