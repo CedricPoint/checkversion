@@ -1,5 +1,5 @@
 {
-  "version": "1.1.3",
-  "notes": "Stations burger et pizza : nom, image et quantité de l'ingrédient au survol de la souris ; ingrédients disponibles en vignettes ; plateaux de garnitures écartés ; une garniture en trop est signalée ; le refus d'une pizza dit quelle garniture ne va pas.",
-  "notes_en": "Burger and pizza stations: ingredient name, image and quantity on mouse hover; available ingredients as thumbnails; topping trays spaced out; extra toppings flagged; a refused pizza says which topping is wrong."
+  "version": "1.1.4",
+  "notes": "Stations burger et pizza : chaque case et chaque ingrédient affiche l'image de l'ingrédient réel avec sa quantité ; les garnitures en plus sont dans des bols (le second plateau montrait d'autres garnitures dessinées).",
+  "notes_en": "Burger and pizza stations: each slot and ingredient shows the real ingredient image with its quantity; extra toppings sit in bowls (the second tray showed other toppings baked into the model)."
 }
