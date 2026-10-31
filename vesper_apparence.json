@@ -1,5 +1,5 @@
 {
-  "version": "1.2.4",
-  "notes": "Les vêtements ajoutés (packs, atelier) sont enregistrés par collection : ils restent les bons même si l'ordre des packs change.",
-  "notes_en": "Add-on clothes (packs, workshop) are saved by collection: they stay correct even if the pack order changes."
+  "version": "1.2.6",
+  "notes": "Couleur des yeux et visages de l'hérédité : toutes les cases sont sélectionnables, les grilles tiennent dans leur cadre quelle que soit la taille de l'écran. Vêtements réservés de vesper-couture vérifiés à chaque enregistrement.",
+  "notes_en": "Eye color and heritage faces: every tile can be selected, the grids fit their panel at any screen size. vesper-couture reserved clothing checked on every save."
 }
