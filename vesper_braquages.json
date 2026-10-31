@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "Première version : supérettes, banques, laboratoire, go-fast, livraisons de drogue, vols sur commande, fourgons blindés ; alertes et traceur police ; tout se place et se règle en jeu.",
-  "notes_en": "First release: convenience stores, banks, lab, go-fast, drug deliveries, cars to order, armored trucks; police alerts and tracker; everything placed and configured in game."
+  "version": "1.0.1",
+  "notes": "Clés des véhicules de mission : données au lanceur et à qui prend le volant, reprises à tous à la fin de la mission.",
+  "notes_en": "Mission vehicle keys: given to the starter and to whoever drives, taken back from everyone when the mission ends."
 }
