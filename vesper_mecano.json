@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
-  "notes": "Nouveau panneau « Préparation » (ox_target) : réglage du freinage, kit drift et kit nitro au même endroit, posés à côté du véhicule. Plus aucune facture automatique (freins, drift, échappement, moteur) : les pièces sont prises dans la caisse du garage et le mécano facture en RP. Chaque pose et chaque dépense va à l'historique et au livre de comptes du patron, avec « véhicule perso » quand le mécano travaille sur le sien.",
-  "notes_en": "New « Preparation » panel (ox_target): brake tuning, drift kit and nitro kit in one place, fitted from beside the vehicle. No more automatic invoices (brakes, drift, exhaust, engine): parts are paid from the garage funds and the mechanic bills in RP. Every install and expense goes to the boss's history and ledger, flagged « personal vehicle » when the mechanic works on their own car."
+  "version": "1.10.0",
+  "notes": "Mise en fourrière par le mécano en service (ox_target « Mettre en fourrière (dépanneur) ») : il choisit un dépanneur du créateur de garages, des frais et un motif ; le propriétaire récupère son véhicule à ce dépanneur en payant le dépannage et les frais, qui reviennent à la caisse du garage. Noté à l'historique du patron et au casier du carnet.",
+  "notes_en": "Impound by an on-duty mechanic (ox_target « Impound (tow yard) »): pick a tow yard from the garage creator, fees and a reason; the owner gets the vehicle back at that tow yard by paying the tow and the fees, which go to the garage funds. Logged in the boss history and the logbook record."
 }
