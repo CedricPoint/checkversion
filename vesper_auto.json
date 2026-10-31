@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Pochette de carnets : un seul objet par joueur, qui s'ouvre sur toutes ses voitures (nom, plaque, photo, prestige). Les anciens carnets y sont rangés. Config.Objet.mode = 'carnets' garde un objet par voiture, avec le nom du véhicule.",
-  "notes_en": "Logbook pouch: a single item per player that opens on all their vehicles (name, plate, picture, prestige). Old logbooks are moved into it. Config.Objet.mode = carnets keeps one item per vehicle, showing the vehicle name."
+  "version": "1.1.1",
+  "notes": "Le carnet suit tout de suite une vente faite par vesper-garages (petites annonces, transfert).",
+  "notes_en": "The logbook follows a vehicle sale made by vesper-garages right away (classified ads, transfer)."
 }
