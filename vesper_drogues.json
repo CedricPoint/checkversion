@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "Plus rapide : un changement de labo n'est plus renvoyé à tout le serveur, icônes et portes refaites seulement si besoin, musique et intérieur allégés. Administration réservée aux groupes du fichier de config.",
-  "notes_en": "Faster: a lab change is no longer resent to the whole server, blips and doors rebuilt only when needed, lighter music and interior loops. Administration limited to the groups set in the config."
+  "version": "1.1.0",
+  "notes": "Spécialité des labos (un labo de cocaïne ne propose et ne fabrique que la cocaïne), recette affichée sur chaque table du catalogue, guide de production dans le menu du labo et au contrat, /drugguide pour tous, onglet Guide et réglage Filières dans le créateur.",
+  "notes_en": "Lab specialties (a cocaine lab only offers and produces cocaine), recipe shown on every catalogue table, production guide in the lab menu and contract, /drugguide for everyone, Guide tab and Production lines settings in the creator."
 }
