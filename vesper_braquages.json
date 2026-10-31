@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "Clés des véhicules de mission : données au lanceur et à qui prend le volant, reprises à tous à la fin de la mission.",
-  "notes_en": "Mission vehicle keys: given to the starter and to whoever drives, taken back from everyone when the mission ends."
+  "version": "1.1.0",
+  "notes": "Supérettes de vesper-boutiques prêtes à braquer : vendeur de la boutique, vraies caisses et coffres du jeu, boutique fermée pendant et après le braquage ; touche G pour braquer.",
+  "notes_en": "vesper-boutiques convenience stores ready to rob: the shop's clerk, the game's real tills and safes, shop closed during and after the robbery; G to rob."
 }
