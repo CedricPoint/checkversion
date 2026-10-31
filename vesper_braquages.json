@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
-  "notes": "Missions à véhicule : plus de « véhicule détruit » au lancement ; livraison de drogue : d'abord la camionnette, puis les clients ; fourgon : liasses de billets visibles dans la soute, sac rempli puis porté sur le dos.",
-  "notes_en": "Vehicle missions: no more 'vehicle destroyed' at start; drug delivery: van first, then the customers; armored truck: visible cash stacks in the hold, bag filled then worn on the back."
+  "version": "1.2.0",
+  "notes": "Marchandises en vrais objets (échantillons, colis) que la police peut saisir ; labo : livraison à pied, intérieur shell avec entrée/sortie, échantillons visibles ; drogue : vrais clients PNJ et camionnette à rendre ; fournisseur et receleur PNJ qui changent de place ; piratage, charge et sac façon braquages du jeu ; plus d'argent sale (liquide).",
+  "notes_en": "Mission goods as real items (samples, parcels) the police can seize; lab: deliver on foot, shell interior with entry/exit, visible samples; drugs: real customer peds and a van to return; supplier and fence peds that move around; hacking, charge and bag like the game's heists; no more dirty money (cash)."
 }
