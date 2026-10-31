@@ -1,5 +1,5 @@
 {
-  "version": "1.2.6",
-  "notes": "Couleur des yeux et visages de l'hérédité : toutes les cases sont sélectionnables, les grilles tiennent dans leur cadre quelle que soit la taille de l'écran. Vêtements réservés de vesper-couture vérifiés à chaque enregistrement.",
-  "notes_en": "Eye color and heritage faces: every tile can be selected, the grids fit their panel at any screen size. vesper-couture reserved clothing checked on every save."
+  "version": "1.2.7",
+  "notes": "Hérédité : les visages de la colonne de droite se sélectionnent enfin (la zone qui tourne la caméra passait par-dessus). Couleur des yeux et visages tiennent dans leur cadre à toutes les tailles d'écran.",
+  "notes_en": "Heritage: faces in the right-hand column can finally be selected (the camera drag area was covering them). Eye colors and faces fit their panel at any screen size."
 }
