@@ -1,5 +1,5 @@
 {
-  "version": "1.3.3",
-  "notes": "Administration réservée aux groupes fondateur et superadmin. Salle de sélection plus légère : positions des personnages envoyées à la page seulement quand elles changent.",
-  "notes_en": "Administration restricted to the fondateur and superadmin groups. Lighter selection room: character positions sent to the page only when they change."
+  "version": "1.4.0",
+  "notes": "Config.Personnages : nombre de personnages par joueur, combien sont gratuits, et Tebex pour les suivants. /wipe <id ou licence> <n°> (fondateur, superadmin) supprime un personnage en jeu ou en console, avec la liste quand le joueur en a plusieurs ; aussi depuis le bot Discord VESPER. Lieux d'apparition : dernière position + lieux de la config (logements en option).",
+  "notes_en": "Config.Personnages: characters per player, how many are free, and Tebex for the others. /wipe <id or license> <number> (fondateur, superadmin) deletes a character in game or from the console, listing them when the player has several; also from the VESPER Discord bot. Spawn picker: last position + config locations (homes optional)."
 }
