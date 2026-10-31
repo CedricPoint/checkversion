@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "notes": "Stations burger et pizza : chaque case et chaque ingrédient affiche l'image de l'ingrédient réel avec sa quantité ; les garnitures en plus sont dans des bols (le second plateau montrait d'autres garnitures dessinées).",
-  "notes_en": "Burger and pizza stations: each slot and ingredient shows the real ingredient image with its quantity; extra toppings sit in bowls (the second tray showed other toppings baked into the model)."
+  "version": "1.2.0",
+  "notes": "Nouvelles recettes : 5 pizzas (Américaine, Orientale, Napolitaine, Primavera, Carnivore), 6 burgers qui donnent chacun leur objet, 6 boissons maison préparées avec de vrais ingrédients pris dans le sac puis les frigos. Toutes les images sont fournies.",
+  "notes_en": "New recipes: 5 pizzas, 6 burgers that each give their own item, 6 house drinks made from real ingredients taken from the bag then the fridges. All images included."
 }
