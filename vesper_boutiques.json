@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "Créateur réservé aux fondateurs et superadmins (plus aux admins). Plus rapide : la boucle par image ne tourne que près d une boutique, les vendeurs et blips ne sont reposés que s ils changent, rôles des employés et chiffres de gestion gardés en mémoire. Corrige l erreur quand un non-admin tapait /shopcreator.",
-  "notes_en": "Creator restricted to founders and superadmins. Faster: per-frame loop only near a shop, shopkeepers and blips only rebuilt when changed, employee roles and management stats cached. Fixes the error when a non-admin typed /shopcreator."
+  "version": "1.3.0",
+  "notes": "Braquages (vesper-braquages) : boutique fermée pendant et après un braquage, vendeur partagé (exports Braquer, EstBraquee, PedVendeur, RemettreVendeur).",
+  "notes_en": "Robberies (vesper-braquages): shop closed during and after a robbery, shared clerk (Braquer, EstBraquee, PedVendeur, RemettreVendeur exports)."
 }
