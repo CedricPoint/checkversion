@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "notes": "Application Emploi toujours listée dans l'App Store de lb-phone (Config.Telephone.parDefaut = false) ; parDefaut = true la pose d'office sur tous les téléphones.",
-  "notes_en": "Jobs app always listed in the lb-phone App Store (Config.Telephone.parDefaut = false); parDefaut = true installs it on every phone instead."
+  "version": "1.2.0",
+  "notes": "Photos en jeu des lieux de travail (/emploiphotos, admin), métiers ESX proposés automatiquement (Config.MetiersAuto), patrons désignés par nom de grade ('boss'), exports OuvrirPoleEmploi / OpenJobCenter.",
+  "notes_en": "In-game photos of the workplaces (/emploiphotos, staff), ESX jobs offered automatically (Config.MetiersAuto), managers set by grade name ('boss'), exports OuvrirPoleEmploi / OpenJobCenter."
 }
