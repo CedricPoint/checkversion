@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "Le niveau d'essence passe par le serveur (VESPER refuse les états écrits par les joueurs), recherche de pompe plus légère, /fuelmarket ouvert au groupe fondateur, administration réservée à fondateur et superadmin.",
-  "notes_en": "Fuel level now written by the server (strict state bags), lighter pump lookup, /fuelmarket open to the founder group, admin limited to founder and superadmin."
+  "version": "1.0.2",
+  "notes": "Correction d'une erreur à la pompe : raccrocher le pistolet avec [E] faisait planter la boucle de la pompe (pompe.lua:333).",
+  "notes_en": "Fixed a pump error: hanging the nozzle back with [E] crashed the pump loop (pompe.lua:333)."
 }
