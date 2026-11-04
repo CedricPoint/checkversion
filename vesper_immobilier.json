@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "notes": "Renommer une maison en jeu : bouton « Renommer » dans sa fiche (/immo, administration). Coffre, meubles, clés, garage, factures, loyers et annonces suivent ; un appartement renomme tout son immeuble. La liste du créateur affiche l'adresse sous l'identifiant. Correctif important : une fin de location et la modification d'une maison sans garage n'étaient pas enregistrées en base (perdues au redémarrage).",
-  "notes_en": "Rename a house in game: \"Rename\" button in its sheet (/immo, administration). Stash, furniture, keys, garage, bills, rent and listings follow; an apartment renames its whole building. The creator list shows the address under the identifier. Important fix: ending a rental and editing a house without a garage were not saved to the database (lost on restart)."
+  "version": "1.4.0",
+  "notes": "Factures du logement : une par jour (au lieu d'une par heure), envoyées aussi dans vesper-billing au nom de l'occupant : réglées au F7 ou au F3, c'est la même facture. Courant coupé après 3 jours impayés, logement repris après 15. Prix revus sur l'économie : charges ≈ 150 à 500 $ par jour, frais d'achat 8 % (au lieu de 20 %), améliorations 4 fois moins chères, clé 250 $, crédit 20 % d'apport puis 10 % par jour. Les factures horaires impayées ont été remises.",
+  "notes_en": "Housing bills: one per day (instead of one per hour), also sent to vesper-billing in the occupant's name: paid from F7 or F3, it is the same bill. Power cut after 3 unpaid days, house taken back after 15. Prices rebalanced to the economy: about $150-500 of charges per day, 8% purchase fees (instead of 20%), upgrades 4x cheaper, $250 key, mortgage 20% down then 10% per day. Unpaid hourly bills were waived."
 }
