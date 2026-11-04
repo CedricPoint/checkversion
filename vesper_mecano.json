@@ -1,5 +1,5 @@
 {
-  "version": "1.10.0",
-  "notes": "Mise en fourrière par le mécano en service (ox_target « Mettre en fourrière (dépanneur) ») : il choisit un dépanneur du créateur de garages, des frais et un motif ; le propriétaire récupère son véhicule à ce dépanneur en payant le dépannage et les frais, qui reviennent à la caisse du garage. Noté à l'historique du patron et au casier du carnet.",
-  "notes_en": "Impound by an on-duty mechanic (ox_target « Impound (tow yard) »): pick a tow yard from the garage creator, fees and a reason; the owner gets the vehicle back at that tow yard by paying the tow and the fees, which go to the garage funds. Logged in the boss history and the logbook record."
+  "version": "1.10.1",
+  "notes": "Palan sur les moteurs arrière et centraux : reconnus aussi par la position du moteur (plus seulement par la liste), palan posé dans l'axe derrière le véhicule sans jamais entrer dans la carrosserie, moteur qui sort d'abord à la verticale puis glisse au crochet.",
+  "notes_en": "Engine hoist on rear and mid-engine cars: detected from the engine position too (not only the list), hoist placed in line behind the car and never inside the body, engine lifted straight up before sliding to the hook."
 }
