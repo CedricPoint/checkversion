@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "notes": "Config.Personnages : nombre de personnages par joueur, combien sont gratuits, et Tebex pour les suivants. /wipe <id ou licence> <n°> (fondateur, superadmin) supprime un personnage en jeu ou en console, avec la liste quand le joueur en a plusieurs ; aussi depuis le bot Discord VESPER. Lieux d'apparition : dernière position + lieux de la config (logements en option).",
-  "notes_en": "Config.Personnages: characters per player, how many are free, and Tebex for the others. /wipe <id or license> <number> (fondateur, superadmin) deletes a character in game or from the console, listing them when the player has several; also from the VESPER Discord bot. Spawn picker: last position + config locations (homes optional)."
+  "version": "1.5.0",
+  "notes": "Tables de la base de données renommées en vesper_* (plus aucun nom Quasar). Migration automatique au premier démarrage : vos données sont reprises telles quelles, et les anciens noms restent lisibles par les autres scripts.",
+  "notes_en": "Database tables renamed to vesper_* (no more Quasar names). Automatic migration on first start: your data is kept as is, and the old names stay readable by other scripts."
 }
