@@ -1,5 +1,5 @@
 {
-  "version": "1.7.3",
-  "notes": "Fouille seulement si la personne est menottée ou a les mains levées (lu dans le jeu du suspect, Config.Suspect.fouilleMainsLevees). Les menottes sont posées par le serveur : compatible sv_stateBagStrictMode, un menotté ne peut plus ouvrir son sac.",
-  "notes_en": "Search only when the person is cuffed or has hands up (read from the suspect's own game, Config.Suspect.fouilleMainsLevees). Cuffs are now set by the server: works with sv_stateBagStrictMode, a cuffed player can no longer open their inventory."
+  "version": "1.7.4",
+  "notes": "Installation sur une base neuve : plus d'erreur au premier démarrage (radars, caméras et facturation attendent que les tables soient créées).",
+  "notes_en": "Fresh database install: no more errors on first start (speed cameras, CCTV and billing now wait for the tables to be created)."
 }
