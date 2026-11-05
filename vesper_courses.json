@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Onglet Administration (fondateur, goat, superadmin) : tracés à vérifier, annulation remboursée d'une course même en piste, compétitions automatiques réglées en jeu (horaire quotidien ou en boucle), ELO et nom des pilotes. Vrai logo VESPER COURSE. Plus de saut au changement d'onglet.",
-  "notes_en": "Administration tab (fondateur, goat, superadmin): tracks to verify, refunded cancellation of a race even while running, automated competitions set in game (daily time or loop), pilots' ELO and name. Proper VESPER COURSE logo. No more jump when switching tabs."
+  "version": "1.2.0",
+  "notes": "Tables de la base de données renommées en vesper_* (plus aucun nom Quasar). Migration automatique au premier démarrage : vos données sont reprises telles quelles, et les anciens noms restent lisibles par les autres scripts.",
+  "notes_en": "Database tables renamed to vesper_* (no more Quasar names). Automatic migration on first start: your data is kept as is, and the old names stay readable by other scripts."
 }
