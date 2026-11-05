@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "notes": "Plus rapide : statistiques de la Bourse en 4 requêtes pour tout le marché, scores des clients d'une agence calculés d'un coup, l'appli LS Bourse ne relit plus les cours appli fermée, boucles du jeu au repos loin des banques et en véhicule.",
-  "notes_en": "Faster: stock exchange statistics in 4 queries for the whole market, a branch's customer scores computed at once, the LS Bourse app no longer refreshes while closed, game loops idle away from banks and in vehicles."
+  "version": "1.2.3",
+  "notes": "Statistiques de la Bourse calculées par la base : plus d'avertissement « oversized result set » d'oxmysql (la série des 7 jours n'est plus rapatriée), volatilité relue une fois par heure, courbes et graphique de la semaine du compte réduits en SQL. Mêmes valeurs qu'avant.",
+  "notes_en": "Stock exchange statistics computed by the database: no more oxmysql \"oversized result set\" warning (the 7-day price series is no longer loaded), volatility refreshed hourly, charts and the weekly account graph reduced in SQL. Same values as before."
 }
