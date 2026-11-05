@@ -1,5 +1,5 @@
 {
-  "version": "1.10.1",
-  "notes": "Palan sur les moteurs arrière et centraux : reconnus aussi par la position du moteur (plus seulement par la liste), palan posé dans l'axe derrière le véhicule sans jamais entrer dans la carrosserie, moteur qui sort d'abord à la verticale puis glisse au crochet.",
-  "notes_en": "Engine hoist on rear and mid-engine cars: detected from the engine position too (not only the list), hoist placed in line behind the car and never inside the body, engine lifted straight up before sliding to the hook."
+  "version": "1.10.2",
+  "notes": "Créateur de garage (/mechaniccreator) : cliquer une section ou changer un réglage ne remet plus la page en haut ; la liste des sections et celle des garages gardent leur position, le panneau ne repart en haut qu'en changeant de section.",
+  "notes_en": "Garage creator (/mechaniccreator): clicking a section or changing a setting no longer jumps back to the top; the section and garage lists keep their position, the panel only resets when changing section."
 }
