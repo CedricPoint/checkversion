@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "Nouvelles recettes : 5 pizzas (Américaine, Orientale, Napolitaine, Primavera, Carnivore), 6 burgers qui donnent chacun leur objet, 6 boissons maison préparées avec de vrais ingrédients pris dans le sac puis les frigos. Toutes les images sont fournies.",
-  "notes_en": "New recipes: 5 pizzas, 6 burgers that each give their own item, 6 house drinks made from real ingredients taken from the bag then the fridges. All images included."
+  "version": "1.3.0",
+  "notes": "Tables de la base de données renommées en vesper_* (plus aucun nom Quasar). Migration automatique au premier démarrage : vos données sont reprises telles quelles, et les anciens noms restent lisibles par les autres scripts.",
+  "notes_en": "Database tables renamed to vesper_* (no more Quasar names). Automatic migration on first start: your data is kept as is, and the old names stay readable by other scripts."
 }
