@@ -1,5 +1,5 @@
 {
-  "version": "1.11.0",
-  "notes": "Magasin de tuning : caméra à la souris (glisser pour tourner, molette pour le zoom), mouvement fluide, ne traverse plus les murs. Créateur : un seul appui sur [E] pour placer, voiture fantôme pour les places (tuning, entretien, apparition), tous les points du garage visibles pendant le placement, molette pour pivoter, [R] face à la caméra ; l'admin peut se confier un garage. Les roues restent braquées quand on descend du véhicule.",
-  "notes_en": "Tuning shop: mouse camera (drag to orbit, wheel to zoom), smooth, no longer goes through walls. Creator: one [E] press to place, ghost car for parking spots (tuning, maintenance, spawn), every garage point shown while placing, wheel to rotate, [R] to face the camera; admins can assign a garage to themselves. Wheels stay turned when leaving the vehicle."
+  "version": "1.12.0",
+  "notes": "Tables de la base de données renommées en vesper_* (plus aucun nom Quasar). Migration automatique au premier démarrage : vos données sont reprises telles quelles, et les anciens noms restent lisibles par les autres scripts.",
+  "notes_en": "Database tables renamed to vesper_* (no more Quasar names). Automatic migration on first start: your data is kept as is, and the old names stay readable by other scripts."
 }
