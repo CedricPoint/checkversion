@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "notes": "Tables de la base de données renommées en vesper_* (plus aucun nom Quasar). Migration automatique au premier démarrage : vos données sont reprises telles quelles, et les anciens noms restent lisibles par les autres scripts.",
-  "notes_en": "Database tables renamed to vesper_* (no more Quasar names). Automatic migration on first start: your data is kept as is, and the old names stay readable by other scripts."
+  "version": "1.4.1",
+  "notes": "Tables de la base de données renommées en vesper_* (plus aucun nom Quasar). Migration automatique au premier démarrage : vos données sont reprises telles quelles, et les anciens noms restent lisibles par les autres scripts. Une installation neuve n’a plus aucun ancien nom de table.",
+  "notes_en": "Database tables renamed to vesper_* (no more Quasar names). Automatic migration on first start: your data is kept as is, and the old names stay readable by other scripts. A fresh install no longer has any old table name."
 }
