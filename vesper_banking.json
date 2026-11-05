@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
-  "notes": "Statistiques de la Bourse calculées par la base : plus d'avertissement « oversized result set » d'oxmysql (la série des 7 jours n'est plus rapatriée), volatilité relue une fois par heure, courbes et graphique de la semaine du compte réduits en SQL. Mêmes valeurs qu'avant.",
-  "notes_en": "Stock exchange statistics computed by the database: no more oxmysql \"oversized result set\" warning (the 7-day price series is no longer loaded), volatility refreshed hourly, charts and the weekly account graph reduced in SQL. Same values as before."
+  "version": "1.3.0",
+  "notes": "Tables de la base de données renommées en vesper_* (plus aucun nom Quasar). Migration automatique au premier démarrage : vos données sont reprises telles quelles, et les anciens noms restent lisibles par les autres scripts.",
+  "notes_en": "Database tables renamed to vesper_* (no more Quasar names). Automatic migration on first start: your data is kept as is, and the old names stay readable by other scripts."
 }
