@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "Preparations des boissons : vraies scenes de barman du jeu avec leurs objets (cocktail au shaker, service a la bouteille, tequila, biere et softs, champagne), un geste par verre.",
-  "notes_en": "Drink preparation now plays the game's real bartender scenes with their props (shaker cocktail, bottle pour, tequila, beer and softs, champagne), one move per glass."
+  "version": "1.2.1",
+  "notes": "Installation sur une base neuve : les tables des boîtes de nuit se créent même quand vesper-boutiques est installé.",
+  "notes_en": "Fresh database install: nightclub tables are now created even when vesper-boutiques is installed."
 }
