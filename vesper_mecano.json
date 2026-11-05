@@ -1,5 +1,5 @@
 {
-  "version": "1.10.2",
-  "notes": "Créateur de garage (/mechaniccreator) : cliquer une section ou changer un réglage ne remet plus la page en haut ; la liste des sections et celle des garages gardent leur position, le panneau ne repart en haut qu'en changeant de section.",
-  "notes_en": "Garage creator (/mechaniccreator): clicking a section or changing a setting no longer jumps back to the top; the section and garage lists keep their position, the panel only resets when changing section."
+  "version": "1.11.0",
+  "notes": "Magasin de tuning : caméra à la souris (glisser pour tourner, molette pour le zoom), mouvement fluide, ne traverse plus les murs. Créateur : un seul appui sur [E] pour placer, voiture fantôme pour les places (tuning, entretien, apparition), tous les points du garage visibles pendant le placement, molette pour pivoter, [R] face à la caméra ; l'admin peut se confier un garage. Les roues restent braquées quand on descend du véhicule.",
+  "notes_en": "Tuning shop: mouse camera (drag to orbit, wheel to zoom), smooth, no longer goes through walls. Creator: one [E] press to place, ghost car for parking spots (tuning, maintenance, spawn), every garage point shown while placing, wheel to rotate, [R] to face the camera; admins can assign a garage to themselves. Wheels stay turned when leaving the vehicle."
 }
