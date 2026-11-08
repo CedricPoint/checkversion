@@ -1,5 +1,5 @@
 {
-  "version": "1.7.4",
-  "notes": "Installation sur une base neuve : plus d'erreur au premier démarrage (radars, caméras et facturation attendent que les tables soient créées).",
-  "notes_en": "Fresh database install: no more errors on first start (speed cameras, CCTV and billing now wait for the tables to be created)."
+  "version": "1.7.5",
+  "notes": "Textes et aide de la configuration nettoyés. Radars, caméras et facturation attendent que la base soit prête au démarrage.",
+  "notes_en": "Configuration texts and help cleaned up. Speed cameras, CCTV and billing now wait for the database at startup."
 }
