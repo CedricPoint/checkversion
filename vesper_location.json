@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
-  "notes": "Plus rapide (comptoirs, sorties, reprise des clés, index en base). Administration réservée par défaut aux groupes fondateur et superadmin.",
-  "notes_en": "Faster (counters, spawn points, key recovery, database index). Administration limited by default to the fondateur and superadmin groups."
+  "version": "1.4.3",
+  "notes": "Textes et aide de la configuration nettoyés.",
+  "notes_en": "Configuration texts and help cleaned up."
 }

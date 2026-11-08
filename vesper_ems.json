@@ -1,4 +1,5 @@
 {
-  "version": "1.5.1",
-  "notes": "Administration du script réservée aux groupes de Config.Administration (fondateur et superadmin par défaut) ou à la permission ACE vesper.ems.admin ; la permission « command » ne suffit plus. Boucle des marqueurs plus légère près des hôpitaux."
+  "version": "1.5.2",
+  "notes": "Textes et aide de la configuration nettoyés.",
+  "notes_en": "Configuration texts and help cleaned up."
 }

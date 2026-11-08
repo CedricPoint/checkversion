@@ -1,4 +1,5 @@
 {
-  "version": "2.4.0",
-  "notes": "Pointer du doigt sur B par défaut, à pied seulement (rien en voiture, B reste libre pour la ceinture)."
+  "version": "2.4.1",
+  "notes": "Textes et aide nettoyés, outils de test internes retirés du paquet.",
+  "notes_en": "Texts and help cleaned up, internal test tools removed from the package."
 }

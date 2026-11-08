@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "notes": "Couvertures photo pour 18 métiers courants (police, ambulance, mécano, taxi, bus, routier, pêche, mine…) et bandeau du pôle emploi ; métiers ESX automatiques ; patrons par nom de grade.",
-  "notes_en": "Cover photos for 18 common jobs (police, EMS, mechanic, taxi, bus, trucker, fishing, mining…) and a job center banner; automatic ESX jobs; managers by grade name."
+  "version": "1.3.1",
+  "notes": "Textes et aide de la configuration nettoyés.",
+  "notes_en": "Configuration texts and help cleaned up."
 }
