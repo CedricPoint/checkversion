@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "Textes et aide de la configuration nettoyés.",
-  "notes_en": "Configuration texts and help cleaned up."
+  "version": "1.0.2",
+  "notes": "Perf : podiums rechargés uniquement au changement de période (fin des requêtes SQL répétées toutes les minutes).",
+  "notes_en": "Perf: podiums reloaded only on period change (no more repeated SQL queries every minute)."
 }
