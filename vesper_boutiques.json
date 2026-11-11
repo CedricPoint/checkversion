@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "notes": "Braquages (vesper-braquages) : boutique fermée pendant et après un braquage, vendeur partagé (exports Braquer, EstBraquee, PedVendeur, RemettreVendeur).",
-  "notes_en": "Robberies (vesper-braquages): shop closed during and after a robbery, shared clerk (Braquer, EstBraquee, PedVendeur, RemettreVendeur exports)."
+  "version": "1.4.0",
+  "notes": "Interface alignée sur la concession (thème Nocturne) : comptoir, rachat, gestion et créateur, police Poppins, en-têtes à logo et compteurs. Bleu pour une boutique, vert pour un point de rachat. Aucun changement de fonctionnement.",
+  "notes_en": "Interface aligned with the dealership (Nocturne theme): counter, buy-back, management and creator, Poppins font, logo headers and counters. Blue for a shop, green for a buy-back point. No behaviour change."
 }
