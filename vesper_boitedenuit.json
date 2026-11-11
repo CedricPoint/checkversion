@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "notes": "Le trottoir, la nuit, comme dans GTA : de 21 h \u00e0 5 h, des filles attendent au bord de la route pr\u00e8s de chaque bo\u00eete. En voiture seulement : on klaxonne, elle monte c\u00f4t\u00e9 passager, on trouve un coin tranquille, les fl\u00e8ches choisissent la prestation (animations du jeu, pay\u00e9e en liquide). Une fille prise dispara\u00eet pour tout le monde puis le trottoir se repeuple. R\u00e9glages dans Config.Trottoir.",
-  "notes_en": "Night-time street walkers, GTA style: from 9 pm to 5 am, girls wait by the road near each club. Car only: honk, she gets in the passenger seat, find a quiet spot, the arrow keys pick the service (game animations, paid in cash). A taken girl disappears for everyone, then the spot refills. Settings in Config.Trottoir."
+  "version": "1.6.0",
+  "notes": "Le trottoir de nuit se r\u00e8gle en jeu : dans /boitecreator, une entr\u00e9e \u00ab Trottoir de nuit \u00bb (marche/arr\u00eat, heures, filles par bo\u00eete, paiement, klaxon, coin tranquille, prix et dur\u00e9e des prestations, mod\u00e8les des filles) et des trottoirs pos\u00e9s n'importe o\u00f9 sur la carte. Gard\u00e9 en base, appliqu\u00e9 tout de suite aux joueurs.",
+  "notes_en": "The night street walkers are now set up in game: in /boitecreator, a \u00ab Trottoir de nuit \u00bb entry (on/off, hours, girls per club, payment, horn, quiet spot, service prices and durations, models) plus spots placed anywhere on the map. Saved in the database, applied to players right away."
 }
