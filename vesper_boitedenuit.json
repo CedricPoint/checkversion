@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "notes": "Son 3D int\u00e9gr\u00e9 : la cabine DJ n'a plus besoin de qs-3dsound. Un seul lecteur par bo\u00eete (le volume vient de l'enceinte la plus proche, plus d'\u00e9cho), tout le monde au m\u00eame instant du morceau, son \u00e9touff\u00e9 hors du b\u00e2timent ; YouTube, SoundCloud ou fichier audio. Lien illisible signal\u00e9 au DJ et saut\u00e9 en mode ambiance. Nouvelle commande /boitevolume 0-100 pour r\u00e9gler la musique pour soi.",
-  "notes_en": "Built-in 3D sound: the DJ booth no longer needs qs-3dsound. One player per club (volume follows the nearest speaker, no more echo), everyone at the same point of the track, muffled outside the building; YouTube, SoundCloud or audio file. Unplayable links are reported to the DJ and skipped in ambience mode. New /boitevolume 0-100 command to set the club music volume for yourself."
+  "version": "1.5.0",
+  "notes": "Le trottoir, la nuit, comme dans GTA : de 21 h \u00e0 5 h, des filles attendent au bord de la route pr\u00e8s de chaque bo\u00eete. En voiture seulement : on klaxonne, elle monte c\u00f4t\u00e9 passager, on trouve un coin tranquille, les fl\u00e8ches choisissent la prestation (animations du jeu, pay\u00e9e en liquide). Une fille prise dispara\u00eet pour tout le monde puis le trottoir se repeuple. R\u00e9glages dans Config.Trottoir.",
+  "notes_en": "Night-time street walkers, GTA style: from 9 pm to 5 am, girls wait by the road near each club. Car only: honk, she gets in the passenger seat, find a quiet spot, the arrow keys pick the service (game animations, paid in cash). A taken girl disappears for everyone, then the spot refills. Settings in Config.Trottoir."
 }
