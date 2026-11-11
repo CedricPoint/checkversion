@@ -1,5 +1,5 @@
 {
-  "version": "1.4.3",
-  "notes": "Textes et aide de la configuration nettoyés.",
-  "notes_en": "Configuration texts and help cleaned up."
+  "version": "1.5.0",
+  "notes": "Nouvelle interface : comptoir, gestion des agences, fenêtres, bandeau de placement, invitation [E] et application du téléphone redessinés (thème Nocturne). Aucun changement de réglages ni de base.",
+  "notes_en": "New look: counter, agency management, dialogs, placement bar, [E] prompt and phone app redesigned (Nocturne theme). No change to settings or database."
 }
