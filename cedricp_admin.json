@@ -1,4 +1,4 @@
 {
-  "version": "2.13.0",
-  "notes": "Densité selon le nombre de joueurs : des paliers baissent PNJ et circulation quand le serveur se remplit, jusqu'à tout enlever (Centre de contrôle, désactivé par défaut). / Density by player count: tiers lower NPCs and traffic as the server fills up, down to removing everything (Control center, off by default)."
+  "version": "2.14.1",
+  "notes": "Nouvelle interface « Nocturne », la même que les scripts VESPER (Poppins, panneaux, tuiles, halos), toujours réglable dans config/theme.lua. L'éditeur de code enregistre correctement sous Windows. / New « Nocturne » interface matching the VESPER scripts (Poppins, panels, tiles, glows), still adjustable in config/theme.lua. The code editor now saves correctly on Windows."
 }
