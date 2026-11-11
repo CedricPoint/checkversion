@@ -1,4 +1,4 @@
 {
-  "version": "1.1.0",
-  "notes": "App Store (installer/désinstaller des apps), nouvelles apps (Galerie, réseau social Pulse, Notes, Calculatrice), notifications (même téléphone fermé) et refonte du design (dynamic island, dock, écran de verrouillage, animations, thèmes). / App Store, new apps (Gallery, social feed, Notes, Calculator), notifications even when the phone is closed, and a full redesign."
+  "version": "1.2.0",
+  "notes": "Le téléphone accueille maintenant les applications des autres scripts VESPER (Bourse, Location, Carnet auto, Factures...) et leurs notifications. / The phone now hosts the apps and notifications from the other VESPER scripts."
 }
