@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "notes": "Nouvelle interface : comptoir, gestion des agences, fenêtres, bandeau de placement, invitation [E] et application du téléphone redessinés (thème Nocturne). Aucun changement de réglages ni de base.",
-  "notes_en": "New look: counter, agency management, dialogs, placement bar, [E] prompt and phone app redesigned (Nocturne theme). No change to settings or database."
+  "version": "1.6.0",
+  "notes": "Placement des points refait : fantômes du PNJ et du véhicule à leur vraie taille (incliné selon la pente), emprise au sol verte / orange / rouge, sorties déjà posées visibles, rotation à la souris (Alt), aimant d'angle (G), vue orbite (C), PNJ du comptoir choisi au Tab. Aucun changement de base.",
+  "notes_en": "Placement tool redone: NPC and vehicle ghosts at real size (tilted to the slope), green / orange / red ground footprint, placed spawn points stay visible, mouse rotation (Alt), angle snap (G), orbit view (C), counter NPC picked with Tab. No database change."
 }
