@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "Première version : tous les distributeurs du jeu utilisables (eCola, Sprunk, Raine, Candybox, café, boissons fraîches, cigarettes, fontaines à eau), vrais produits, séquence d achat du jeu, boire ou manger sur place, animations de consommation avec objet en main.",
-  "notes_en": "First release: every vending machine in the game is usable (eCola, Sprunk, Raine, Candybox, coffee, cold drinks, cigarettes, water coolers), real products, the game's own purchase sequence, eat or drink on the spot, consumption animations with props in hand."
+  "version": "1.1.0",
+  "notes": "Nouvelle interface alignée sur la concession (thème Nocturne) : fenêtre de gestion aux couleurs de la marque, catalogue en cartes, caisse façon reçu avec effets, quantité et paiement, police Poppins. Aucun changement de fonctionnement.",
+  "notes_en": "New interface matching the dealership (Nocturne theme): brand-tinted window, product cards, receipt-style checkout with effects, quantity and payment, Poppins font. No behaviour change."
 }
