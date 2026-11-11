@@ -1,5 +1,4 @@
 {
-  "version": "1.2.1",
-  "notes": "Installation sur une base neuve : les tables des boîtes de nuit se créent même quand vesper-boutiques est installé.",
-  "notes_en": "Fresh database install: nightclub tables are now created even when vesper-boutiques is installed."
+  "version": "1.3.0",
+  "notes": "Interface alignee sur vesper-concession (theme Nocturne, police Poppins) : tablette en fenetre de gestion avec onglets groupes, compteurs a pastilles, bar, terminal, cabine DJ, garage et createur restyles ; la fenetre ne rejoue plus son animation a chaque clic."
 }
