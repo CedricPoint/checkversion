@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "Marchandises en vrais objets (échantillons, colis) que la police peut saisir ; labo : livraison à pied, intérieur shell avec entrée/sortie, échantillons visibles ; drogue : vrais clients PNJ et camionnette à rendre ; fournisseur et receleur PNJ qui changent de place ; piratage, charge et sac façon braquages du jeu ; plus d'argent sale (liquide).",
-  "notes_en": "Mission goods as real items (samples, parcels) the police can seize; lab: deliver on foot, shell interior with entry/exit, visible samples; drugs: real customer peds and a van to return; supplier and fence peds that move around; hacking, charge and bag like the game's heists; no more dirty money (cash)."
+  "version": "1.3.0",
+  "notes": "Interface entièrement refaite au style de la concession : même fenêtre de gestion (navigation latérale), mêmes couleurs, police Poppins, notifications, invite [E], cartes de contact, de commerce et de mission.",
+  "notes_en": "Interface fully redone in the dealership style: same management window (side navigation), same colors, Poppins font, notifications, [E] prompt, contact, shop and mission cards."
 }
