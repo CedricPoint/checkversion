@@ -1,5 +1,5 @@
 {
-  "version": "1.5.2",
-  "notes": "Textes et aide de la configuration nettoyés.",
-  "notes_en": "Configuration texts and help cleaned up."
+  "version": "1.6.0",
+  "notes": "Nouvelle interface, alignée sur vesper-concession (thème Nocturne, police Poppins) : accueil, salle de sélection, fiche du personnage, création d'identité, choix du lieu et panneaux. La couleur de Config.Theme teinte aussi les halos.",
+  "notes_en": "New interface matching vesper-concession (Nocturne theme, Poppins font): welcome screen, selection room, character sheet, identity creation, spawn picker and panels. Config.Theme's color also tints the glows."
 }
