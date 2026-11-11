@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "notes": "Carte élargie : 6 pizzas, 6 burgers et 8 boissons maison de plus (19 pizzas, 12 burgers, 14 boissons maison), 5 nouveaux ingrédients, toutes les images fournies. La commande de remplissage des frigos complète le stock au lieu de l'additionner.",
-  "notes_en": "Bigger menu: 6 more pizzas, 6 more burgers and 8 more house drinks (19 pizzas, 12 burgers, 14 house drinks), 5 new ingredients, all images included. The fridge fill command now tops up the stock instead of adding to it."
+  "version": "1.5.0",
+  "notes": "Toute l'interface reprend le thème de la concession : police Poppins, fenêtres en verre sombre, en-tête avec logo, badge et compteurs, menu patron classé par groupes, compteurs à pastille d'icône, kiosque aux couleurs du restaurant, modales, notifications et bulles des mini-jeux harmonisées, écrans des télévisions au même style.",
+  "notes_en": "The whole interface now uses the dealership theme: Poppins font, dark glass windows, header with logo, badge and counters, boss menu grouped by section, icon stat cards, kiosk in the restaurant's colours, matching modals, notifications and mini-game overlays, TV screens in the same style."
 }
