@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "notes": "Interface align\u00e9e sur vesper-concession (th\u00e8me Nocturne, police Poppins) : tablette en fen\u00eatre de gestion avec onglets group\u00e9s et compteurs \u00e0 pastilles ; bar, terminal, cabine DJ, garage et cr\u00e9ateur restyl\u00e9s ; la fen\u00eatre ne rejoue plus son animation \u00e0 chaque clic.",
-  "notes_en": "UI aligned with vesper-concession (Nocturne theme, Poppins font): the tablet becomes a management window with grouped tabs and coloured counters; bar, terminal, DJ booth, garage and creator restyled; the window no longer replays its opening animation on every click."
+  "version": "1.4.0",
+  "notes": "Son 3D int\u00e9gr\u00e9 : la cabine DJ n'a plus besoin de qs-3dsound. Un seul lecteur par bo\u00eete (le volume vient de l'enceinte la plus proche, plus d'\u00e9cho), tout le monde au m\u00eame instant du morceau, son \u00e9touff\u00e9 hors du b\u00e2timent ; YouTube, SoundCloud ou fichier audio. Lien illisible signal\u00e9 au DJ et saut\u00e9 en mode ambiance. Nouvelle commande /boitevolume 0-100 pour r\u00e9gler la musique pour soi.",
+  "notes_en": "Built-in 3D sound: the DJ booth no longer needs qs-3dsound. One player per club (volume follows the nearest speaker, no more echo), everyone at the same point of the track, muffled outside the building; YouTube, SoundCloud or audio file. Unplayable links are reported to the DJ and skipped in ambience mode. New /boitevolume 0-100 command to set the club music volume for yourself."
 }
