@@ -1,4 +1,5 @@
 {
   "version": "1.3.0",
-  "notes": "Interface alignee sur vesper-concession (theme Nocturne, police Poppins) : tablette en fenetre de gestion avec onglets groupes, compteurs a pastilles, bar, terminal, cabine DJ, garage et createur restyles ; la fenetre ne rejoue plus son animation a chaque clic."
+  "notes": "Interface align\u00e9e sur vesper-concession (th\u00e8me Nocturne, police Poppins) : tablette en fen\u00eatre de gestion avec onglets group\u00e9s et compteurs \u00e0 pastilles ; bar, terminal, cabine DJ, garage et cr\u00e9ateur restyl\u00e9s ; la fen\u00eatre ne rejoue plus son animation \u00e0 chaque clic.",
+  "notes_en": "UI aligned with vesper-concession (Nocturne theme, Poppins font): the tablet becomes a management window with grouped tabs and coloured counters; bar, terminal, DJ booth, garage and creator restyled; the window no longer replays its opening animation on every click."
 }
