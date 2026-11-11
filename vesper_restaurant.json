@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "notes": "Toute l'interface reprend le thème de la concession : police Poppins, fenêtres en verre sombre, en-tête avec logo, badge et compteurs, menu patron classé par groupes, compteurs à pastille d'icône, kiosque aux couleurs du restaurant, modales, notifications et bulles des mini-jeux harmonisées, écrans des télévisions au même style.",
-  "notes_en": "The whole interface now uses the dealership theme: Poppins font, dark glass windows, header with logo, badge and counters, boss menu grouped by section, icon stat cards, kiosk in the restaurant's colours, matching modals, notifications and mini-game overlays, TV screens in the same style."
+  "version": "1.6.0",
+  "notes": "Approvisionnement rapide : quantité par clic ×1/×5/×10/×25, « 5, 10 ou 25 de chaque » en un clic, quantité saisissable, bouton Vider, panier toujours visible, jusqu'à 60 articles par commande. Les fenêtres ne clignotent plus à chaque clic. La livraison se récupère avec la touche E (fini le target), avec un repère au-dessus des caisses. Mini-jeux : panneau d'aide compact qui s'efface quand le curseur approche, pour ne plus cacher les ingrédients.",
+  "notes_en": "Quick restocking: per-click quantity x1/x5/x10/x25, '5, 10 or 25 of each' in one click, editable quantities, Clear button, sticky cart, up to 60 items per order. Windows no longer flicker on every click. Deliveries are picked up with the E key (no more target), with a marker above the crates. Mini-games: compact help panel that fades when the cursor gets close, so it no longer hides ingredients."
 }
