@@ -1,0 +1,5 @@
+{
+  "version": "2.2.1",
+  "notes": "Nouveau panneau d'administration, dans le même style que la gestion des concessions : vue d'ensemble avec compteurs, zones avec l'icône de leur temps, effets en tuiles, fenêtre adaptée à toutes les résolutions. La console et les admins sont désormais prévenus quand une nouvelle version sort.",
+  "notes_en": "New admin panel, in the same style as the dealership management: overview with counters, zones showing their weather icon, effects as tiles, window that fits every resolution. The console and admins are now told when a new version is out."
+}
