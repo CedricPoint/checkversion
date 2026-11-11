@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "notes": "Textes et aide de la configuration nettoyés.",
-  "notes_en": "Configuration texts and help cleaned up."
+  "version": "1.2.0",
+  "notes": "Nouvelle interface, alignée sur la concession : fenêtres à en-tête et navigation latérale, vues d'ensemble à tuiles (créateur et menu du labo), réglages en cartes, décoration façon showroom, police Poppins.",
+  "notes_en": "New interface matching the dealership: windows with header and side navigation, overview pages with tiles (creator and lab menu), settings as cards, showroom-style decoration, Poppins font."
 }
