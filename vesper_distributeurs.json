@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Nouvelle interface alignée sur la concession (thème Nocturne) : fenêtre de gestion aux couleurs de la marque, catalogue en cartes, caisse façon reçu avec effets, quantité et paiement, police Poppins. Aucun changement de fonctionnement.",
-  "notes_en": "New interface matching the dealership (Nocturne theme): brand-tinted window, product cards, receipt-style checkout with effects, quantity and payment, Poppins font. No behaviour change."
+  "version": "1.2.1",
+  "notes": "Version publique gratuite : textes en français et en anglais (Config.Langue), fonctionne avec vesper-inventory, ox_inventory ou l'inventaire d'ESX (fichiers prêts dans install/), images au nom des produits. Téléchargement dans vos Granted Assets sur portal.cfx.re.",
+  "notes_en": "Free public release: French and English texts (Config.Langue), works with vesper-inventory, ox_inventory or the default ESX inventory (ready-made files in install/), images named after the products. Download it from your Granted Assets on portal.cfx.re."
 }
