@@ -1,5 +1,4 @@
 {
-  "version": "1.6.0",
-  "notes": "Nouvelle interface, alignée sur celle de vesper-concession : même thème Nocturne (couleurs, police Poppins, fenêtres à trame et liseré lumineux, onglets, boutons, cartes, notifications, bandeau [E], fenêtres de confirmation). Les agences gardent leur couleur. Aucun changement de fonctionnement.",
-  "notes_en": "New interface, aligned with vesper-concession: same Nocturne theme (colors, Poppins font, windows with grid and glowing edge, tabs, buttons, cards, notifications, [E] prompt, confirmation dialogs). Agencies keep their own color. No functional change."
+  "version": "1.6.1",
+  "notes": "Correctif : fiabilisation du chargement du personnage (esx:playerLoaded). / Fix: reliable character-load handling (esx:playerLoaded)."
 }

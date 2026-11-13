@@ -1,5 +1,4 @@
 {
-  "version": "1.6.0",
-  "notes": "Nouvelle interface : tablette, administration, fiche patient, accueil, suivi, garage et matériel prennent le thème « Nocturne » de vesper-concession. Aucune configuration ni base à modifier.",
-  "notes_en": "New interface: tablet, admin panel, patient record, front desk, follow-up, garage and equipment screens now use the vesper-concession \"Nocturne\" theme. No config or database change."
+  "version": "1.6.1",
+  "notes": "Correctif : fiabilisation du chargement du personnage (esx:playerLoaded). / Fix: reliable character-load handling (esx:playerLoaded)."
 }
