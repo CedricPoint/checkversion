@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "Nouvelle fenêtre du créateur, au même style que les concessions : vue d’ensemble de l’épidémie en cours, événements en cartes, éditeur et réglages en tuiles avec recherche, classement, confirmations avant de perdre des changements. Chronomètre, classement en jeu, intro et application du téléphone au même thème.",
-  "notes_en": "New creator window, in the same style as the dealerships: overview of the running outbreak, events as cards, editor and settings as tiles with search, leaderboard, confirmation before losing changes. Timer, in-game scoreboard, intro and phone app in the same theme."
+  "version": "1.2.1",
+  "notes": "Les zombies ne se téléportent plus : leur rythme de pas est borné (1,5 au plus, 1,1 par défaut) et leur allure va de la marche au sprint (course par défaut). Les événements déjà enregistrés sont corrigés tout seuls.",
+  "notes_en": "Zombies no longer teleport: their step rate is capped (1.5 max, 1.1 by default) and their pace goes from walk to sprint (run by default). Events already saved are fixed automatically."
 }
