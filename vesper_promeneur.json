@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "NUI : police Poppins, style Nocturne (--verre, --reflet, éclat au survol). Chrono avance sans marcher.",
-  "notes_en": "NUI: Poppins font, Nocturne style (--verre, --reflet, hover shimmer). Timer advances without walking."
+  "version": "1.1.1",
+  "notes": "UI : panneau Nocturne — police Poppins, fonds en verre, boutons gradient avec éclat au survol, bascules à ressort.",
+  "notes_en": "UI: Nocturne panel — Poppins font, glass backgrounds, gradient buttons with hover shimmer, spring toggles."
 }

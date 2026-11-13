@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "notes": "Perf : podiums rechargés uniquement au changement de période (fin des requêtes SQL répétées toutes les minutes).",
-  "notes_en": "Perf: podiums reloaded only on period change (no more repeated SQL queries every minute)."
+  "version": "1.0.3",
+  "notes": "UI : panneau Nocturne — police Poppins, fonds en verre, boutons gradient avec éclat au survol, bascules à ressort.",
+  "notes_en": "UI: Nocturne panel — Poppins font, glass backgrounds, gradient buttons with hover shimmer, spring toggles."
 }

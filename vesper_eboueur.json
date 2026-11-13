@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
-  "notes": "Textes et aide de la configuration nettoyés.",
-  "notes_en": "Configuration texts and help cleaned up."
+  "version": "1.1.3",
+  "notes": "UI : panneau Nocturne — police Poppins, fonds en verre, boutons gradient avec éclat au survol, bascules à ressort.",
+  "notes_en": "UI: Nocturne panel — Poppins font, glass backgrounds, gradient buttons with hover shimmer, spring toggles."
 }
