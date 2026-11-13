@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "notes": "Nouvelle interface, alignée sur vesper-concession (thème Nocturne, police Poppins) : menu d'essayage, panier, fenêtres, invite [E] et créateur.",
-  "notes_en": "New interface matching vesper-concession (Nocturne theme, Poppins font): fitting menu, cart, dialogs, [E] prompt and creator."
+  "version": "1.4.1",
+  "notes": "Nouvelle interface alignée sur vesper-concession (thème Nocturne, police Poppins). Les curseurs (opacité d'un tatouage) ne débordent plus de leur carte.",
+  "notes_en": "New interface matching vesper-concession (Nocturne theme, Poppins font). Sliders (tattoo opacity) no longer overflow their card."
 }
