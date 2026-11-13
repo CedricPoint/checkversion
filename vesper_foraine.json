@@ -1,5 +1,5 @@
 {
-  "version": "0.9.2",
-  "notes": "Interface alignée sur celle de la concession (thème Nocturne, police Poppins) et vérification de mise à jour branchée.",
-  "notes_en": "Interface aligned with the dealership one (Nocturne theme, Poppins font) and update check wired in."
+  "version": "0.9.3",
+  "notes": "Pince à peluches jouable (vue dans la cuve, repère sous la griffe), score du testeur de force visible des joueurs proches, fenêtres des gestes et de l'atelier façon administration de la concession.",
+  "notes_en": "Playable claw machine (view inside the cabinet, marker under the claw), strength tester score visible to nearby players, gestures and workshop windows styled like the dealership admin."
 }
