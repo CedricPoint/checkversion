@@ -1,5 +1,5 @@
 {
-  "version": "0.9.3",
-  "notes": "Pince à peluches jouable (vue dans la cuve, repère sous la griffe), score du testeur de force visible des joueurs proches, fenêtres des gestes et de l'atelier façon administration de la concession.",
-  "notes_en": "Playable claw machine (view inside the cabinet, marker under the claw), strength tester score visible to nearby players, gestures and workshop windows styled like the dealership admin."
+  "version": "0.9.4",
+  "notes": "Pince à peluches visible et jouable (joueur visible, caméra au-dessus de l'épaule), noms au-dessus des jeux désactivables (coupés par défaut), objets décoratifs posés depuis l'atelier, atelier complet : vue d'ensemble, historique des parties, objets, réglages.",
+  "notes_en": "Visible, playable claw machine (player visible, over-the-shoulder camera), labels above games can be toggled (off by default), decorative props placed from the workshop, full workshop: overview, game history, props, settings."
 }
