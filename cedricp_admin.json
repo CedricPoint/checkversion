@@ -1,4 +1,4 @@
 {
-  "version": "2.14.1",
-  "notes": "Nouvelle interface « Nocturne », la même que les scripts VESPER (Poppins, panneaux, tuiles, halos), toujours réglable dans config/theme.lua. L'éditeur de code enregistre correctement sous Windows. / New « Nocturne » interface matching the VESPER scripts (Poppins, panels, tiles, glows), still adjustable in config/theme.lua. The code editor now saves correctly on Windows."
+  "version": "2.15.0",
+  "notes": "Règles du monde (Centre de contrôle, droit world.rules) : limiter les sauts en série (bunny hop), pas de roulade, pas de coup de crosse, réticule caché, pas d'étoiles de recherche… tout coupé par défaut. / World rules (Control center, world.rules permission): limit bunny hopping, no combat roll, no pistol whipping, hidden crosshair, no wanted level… all off by default."
 }
