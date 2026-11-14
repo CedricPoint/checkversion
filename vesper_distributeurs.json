@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "notes": "Version publique gratuite : textes en français et en anglais (Config.Langue), fonctionne avec vesper-inventory, ox_inventory ou l'inventaire d'ESX (fichiers prêts dans install/), images au nom des produits. Téléchargement dans vos Granted Assets sur portal.cfx.re.",
-  "notes_en": "Free public release: French and English texts (Config.Langue), works with vesper-inventory, ox_inventory or the default ESX inventory (ready-made files in install/), images named after the products. Download it from your Granted Assets on portal.cfx.re."
+  "version": "1.3.0",
+  "notes": "La langue choisie s'applique tout de suite ; une machine dont la liste de produits est vide passe hors service (plus ciblable) ; nouvel évènement serveur local vesper-distributeurs:vente à chaque vente, pour vos journaux et statistiques.",
+  "notes_en": "The chosen language applies right away; a machine with an empty product list is out of order (no longer targetable); new local server event vesper-distributeurs:vente on every sale, for your logs and statistics."
 }
