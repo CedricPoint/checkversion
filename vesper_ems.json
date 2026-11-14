@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
-  "notes": "Vraie reptation (une traction par appui, on se retourne sur le ventre, Q/D pour pivoter) et réanimation à deux : soignant et patient jouent la scène de massage ensemble, alignés. Config inchangée (nouvelles clés facultatives).",
-  "notes_en": "Real crawling (one pull per press, roll onto the stomach, Q/D to turn) and paired CPR: medic and patient play the CPR scene together, aligned. Config unchanged (new keys are optional)."
+  "version": "1.8.0",
+  "notes": "Commandes de soin pour l'administration : /heal [id] (vie, blessures, faim et soif ; relève s'il est à terre), /healall (tous les joueurs debout), /reviveall (tous ceux à terre). Réservées à l'administration et à la console, journalisées. Config inchangée (nouvelles clés facultatives).",
+  "notes_en": "Admin healing commands: /heal [id] (health, injuries, hunger and thirst; revives if downed), /healall (every standing player), /reviveall (every downed player). Admin and console only, logged. Config unchanged (new keys are optional)."
 }
