@@ -1,0 +1,5 @@
+{
+  "version": "1.7.2",
+  "notes": "Branché sur checkversion : le serveur prévient quand une nouvelle version sort. Compatible avec le téléphone vesper-smartphone.",
+  "notes_en": "Now checks for updates: the server warns when a new version is out. Works with the vesper-smartphone phone."
+}
