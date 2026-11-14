@@ -1,4 +1,5 @@
 {
-  "version": "1.6.1",
-  "notes": "Correctif : fiabilisation du chargement du personnage (esx:playerLoaded). / Fix: reliable character-load handling (esx:playerLoaded)."
+  "version": "1.7.0",
+  "notes": "Vraie reptation (une traction par appui, on se retourne sur le ventre, Q/D pour pivoter) et réanimation à deux : soignant et patient jouent la scène de massage ensemble, alignés. Config inchangée (nouvelles clés facultatives).",
+  "notes_en": "Real crawling (one pull per press, roll onto the stomach, Q/D to turn) and paired CPR: medic and patient play the CPR scene together, aligned. Config unchanged (new keys are optional)."
 }
