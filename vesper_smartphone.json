@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "notes": "Santé : la carte médicale affiche le groupe sanguin du personnage (tiré une fois, le même que vesper-ems), qui n'est plus modifiable depuis le téléphone.",
-  "notes_en": "Health: the medical card shows the character's blood type (drawn once, same as vesper-ems), no longer editable from the phone."
+  "version": "1.0.3",
+  "notes": "Code et reconnaissance faciale réglables dès la première ouverture ; touche d'ouverture fiable (F1, renommée dans les réglages FiveM) ; téléphone en main animé (à pied et en voiture) ; appareil photo du jeu : on lève le téléphone, on peut marcher, vrai selfie ; Plans : vraie carte de GTA (3 styles) avec Cayo Perico ; nom du propriétaire modifiable (Réglages > Général > Informations).",
+  "notes_en": "Passcode and Face ID can be set on first start; reliable open key (F1, renamed in FiveM key bindings); animated phone in hand (on foot and in vehicles); game phone camera: raise the phone, walk while aiming, real selfie; Maps: the real GTA map (3 styles) with Cayo Perico; editable owner name (Settings > General > About)."
 }
