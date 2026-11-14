@@ -1,0 +1,4 @@
+{
+  "version": "1.0.0",
+  "notes": "Première version : deathmatch par équipes (Glace contre Feu), salons avec mot de passe, une instance par partie, manches, mort subite, zone, spectateur, classement et éditeur de cartes en jeu. / First release: team deathmatch (Ice vs Fire), password lobbies, one instance per match, rounds, sudden death, play zone, spectator, leaderboard and in-game map editor."
+}
