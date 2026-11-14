@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
-  "notes": "Tablette au thème Nocturne (police locale) ; récolte en continu, garage par vesper-garages avec point de rangement, tout en argent propre, armurerie jamais vide.",
-  "notes_en": "Tablet in the Nocturne theme (local font); continuous harvesting, gang garage through vesper-garages with a parking point, clean money only, armoury never empty."
+  "version": "2.1.1",
+  "notes": "Compatibilité avec le nouveau téléphone vesper-smartphone (lb-phone reste pris en charge).",
+  "notes_en": "Works with the new vesper-smartphone phone (lb-phone is still supported)."
 }

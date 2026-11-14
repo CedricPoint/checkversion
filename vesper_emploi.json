@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "notes": "Interface refaite sur le modèle de vesper-concession (thème Nocturne) : fenêtre à colonne, tableau de bord, cartes d'offres photo, fiches, conversation, recrutement et équipe ; application du téléphone harmonisée.",
-  "notes_en": "Interface rebuilt on the vesper-concession model (Nocturne theme): sidebar window, dashboard, photo job cards, sheets, chat, hiring and team; phone app restyled."
+  "version": "1.4.1",
+  "notes": "Compatibilité avec le nouveau téléphone vesper-smartphone (lb-phone reste pris en charge).",
+  "notes_en": "Works with the new vesper-smartphone phone (lb-phone is still supported)."
 }

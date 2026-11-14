@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "notes": "Carnet et appli téléphone alignés sur la concession : thème Nocturne et police Poppins.",
-  "notes_en": "Logbook and phone app aligned with the dealership: Nocturne theme and Poppins font."
+  "version": "1.2.3",
+  "notes": "Compatibilité avec le nouveau téléphone vesper-smartphone (lb-phone reste pris en charge).",
+  "notes_en": "Works with the new vesper-smartphone phone (lb-phone is still supported)."
 }
