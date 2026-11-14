@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "notes": "Code et reconnaissance faciale réglables dès la première ouverture ; touche d'ouverture fiable (F1, renommée dans les réglages FiveM) ; téléphone en main animé (à pied et en voiture) ; appareil photo du jeu : on lève le téléphone, on peut marcher, vrai selfie ; Plans : vraie carte de GTA (3 styles) avec Cayo Perico ; nom du propriétaire modifiable (Réglages > Général > Informations).",
-  "notes_en": "Passcode and Face ID can be set on first start; reliable open key (F1, renamed in FiveM key bindings); animated phone in hand (on foot and in vehicles); game phone camera: raise the phone, walk while aiming, real selfie; Maps: the real GTA map (3 styles) with Cayo Perico; editable owner name (Settings > General > About)."
+  "version": "1.0.4",
+  "notes": "Le téléphone s'ouvre maintenant avec la touche virgule (,), modifiable dans les touches FiveM (Téléphone : ouvrir / fermer).",
+  "notes_en": "The phone now opens with the comma key (,), rebindable in FiveM key bindings (Telephone : ouvrir / fermer)."
 }
