@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "notes": "Le téléphone s'ouvre maintenant avec la touche virgule (,), modifiable dans les touches FiveM (Téléphone : ouvrir / fermer).",
-  "notes_en": "The phone now opens with the comma key (,), rebindable in FiveM key bindings (Telephone : ouvrir / fermer)."
+  "version": "1.1.0",
+  "notes": "Cartes SIM : le numéro est sur la carte SIM, plus sur le téléphone. Utiliser une carte SIM la met dans le téléphone en main (l'ancienne revient dans l'inventaire), on la retire dans Réglages > Réseau cellulaire. Conversations et journal d'appels suivent la carte ; contacts, photos et réglages restent dans le téléphone. Chaque téléphone existant garde son numéro (déjà sur une carte insérée) ; le téléphone offert à l'arrivée contient une carte.",
+  "notes_en": "SIM cards: the phone number now lives on the SIM card, not on the phone. Using a SIM card puts it in the phone in hand (the old one goes back to the inventory); remove it in Settings > Cellular. Conversations and call history follow the card; contacts, photos and settings stay on the phone. Every existing phone keeps its number (already on an inserted card); the starter phone comes with a card."
 }
