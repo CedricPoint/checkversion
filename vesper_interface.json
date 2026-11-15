@@ -1,0 +1,5 @@
+{
+  "version": "1.0.7",
+  "notes": "Première connexion : la souris marche sur l'écran « Bienvenue » du réglage de l'interface ; un joueur qui a déjà un personnage va directement à son personnage, sans refaire le réglage.",
+  "notes_en": "First connection: the mouse works on the interface setup \"Welcome\" screen; a player who already has a character goes straight to it without redoing the setup."
+}
