@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
-  "notes": "Nouvelle interface, alignée sur vesper-concession (thème Nocturne, police Poppins) : accueil, salle de sélection, fiche du personnage, création d'identité, choix du lieu et panneaux. La couleur de Config.Theme teinte aussi les halos.",
-  "notes_en": "New interface matching vesper-concession (Nocturne theme, Poppins font): welcome screen, selection room, character sheet, identity creation, spawn picker and panels. Config.Theme's color also tints the glows."
+  "version": "1.7.0",
+  "notes": "Arrivée en avion rejouée à la création du personnage ; objets, argent liquide, banque et véhicule de départ (rangé au garage avec ses clés) réglables pour les nouveaux personnages.",
+  "notes_en": "Plane arrival played again when a character is created; starting items, cash, bank and vehicle (stored in the garage with its keys) configurable for new characters."
 }
