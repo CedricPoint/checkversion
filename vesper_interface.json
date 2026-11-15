@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "notes": "Première connexion : la souris marche sur l'écran « Bienvenue » du réglage de l'interface ; un joueur qui a déjà un personnage va directement à son personnage, sans refaire le réglage.",
-  "notes_en": "First connection: the mouse works on the interface setup \"Welcome\" screen; a player who already has a character goes straight to it without redoing the setup."
+  "version": "1.0.8",
+  "notes": "La console et les admins en jeu sont prévenus quand une nouvelle version de l'interface sort. Rappel 1.0.7 : la souris marche sur l'écran « Bienvenue », et un joueur qui a déjà un personnage va directement à son personnage.",
+  "notes_en": "The console and in-game admins are told when a new interface version is out. Reminder 1.0.7: the mouse works on the \"Welcome\" screen, and a player who already has a character goes straight to it."
 }
