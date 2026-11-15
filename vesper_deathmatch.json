@@ -1,4 +1,4 @@
 {
-  "version": "1.0.0",
-  "notes": "Première version : deathmatch par équipes (Glace contre Feu), salons avec mot de passe, une instance par partie, manches, mort subite, zone, spectateur, classement et éditeur de cartes en jeu. / First release: team deathmatch (Ice vs Fire), password lobbies, one instance per match, rounds, sudden death, play zone, spectator, leaderboard and in-game map editor."
+  "version": "1.0.1",
+  "notes": "Plus de chute sous la carte : les joueurs sont posés debout sur le sol (présentation des équipes, début de manche, mort subite, retour), le décor est attendu avant chaque téléportation, et un joueur passé au travers du sol est ramené à son point. / No more falling under the map: players are placed standing on the ground (team showcase, round start, sudden death, return), the scenery is loaded before each teleport, and a player who falls through the floor is brought back to their spawn."
 }
