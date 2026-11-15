@@ -1,4 +1,4 @@
 {
-  "version": "2.15.0",
-  "notes": "Règles du monde (Centre de contrôle, droit world.rules) : limiter les sauts en série (bunny hop), pas de roulade, pas de coup de crosse, réticule caché, pas d'étoiles de recherche… tout coupé par défaut. / World rules (Control center, world.rules permission): limit bunny hopping, no combat roll, no pistol whipping, hidden crosshair, no wanted level… all off by default."
+  "version": "2.16.0",
+  "notes": "Ajouter un membre du staff depuis le panneau (Rôles et comptes › Comptes) : joueur en ligne ou licence, rôle ; il choisit son mot de passe à sa prochaine ouverture. / Add a staff member from the panel (Roles and accounts › Accounts): online player or licence, role; they choose their password the next time they open it."
 }
